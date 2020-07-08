@@ -19,17 +19,18 @@ In my free time, I enjoy drawing/sketching. [Here]() is the link to my drawings/
 <table>
   <tbody>
     <tr>
-      <td><img src="./images/tima-logo.jpg" width = "100"></td>
+      <td><img src="./images/tima-logo.jpg" width = "200"></td>
       <td>
         <h3>Research Intern, TIMA Laboratory (Feb'20 - May'20)</h3>
         This research internship was apart of the master's which was done towards the end of M1 (first year of master's)
         <ul>
             <li> Topic: Developing an FPGA benchmark in CHISEL for specific chosen kernels </li>
             <li> Implementation of convolution using multiplication method in CHISEL (an HDL language) </li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td><img src="./images/lirmm-logo.jpg" width = "100"></td>
+      <td><img src="./images/lirmm-logo.jpg" width = "200"></td>
       <td>
         <h3>Research Intern, LIRMM (May’18 - July’18)</h3>
         <ul>
@@ -40,7 +41,7 @@ In my free time, I enjoy drawing/sketching. [Here]() is the link to my drawings/
       </td>
     </tr>
     <tr>
-      <td><img src="./images/IITJ-logo.jpg" width = "100"></td>
+      <td><img src="./images/IITJ-logo.jpg" width = "200"></td>
       <td>
         <h3>Research Intern, IT Jodhpur (May’17 – July’17)</h3>
         This internship served as the transition to MATLAB for programming signal processing elements. The knowledge of MATLAB would be used to implement signal processing based GPS algorithm.
@@ -50,16 +51,17 @@ In my free time, I enjoy drawing/sketching. [Here]() is the link to my drawings/
         </ul>
       </td>
     </tr>
+    <tr>
+      <td><img src="./images/drdo-logo.png" width = "200"></td>
+      <td>
+        <h3>Summer Trainee, DRDO (May’16 – July’16)</h3>
+        This trainning provided basic instrumentation handling of electronics instruments, likie DSO and microcontroller Arduino. Done after 1st year of bachelor's.
+        <ul>
+            <li> Learnt the basics of Arduino and its programmin </li>
+            <li> Made an Android app and linked it with an Arduino using USB for data transfer </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
-
-TABLE 2
-
-
-
-|||
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img style="padding-right: 25px; float: left;" src="./images/tima-logo.jpg" width = "400"> |  Research Intern, TIMA Laboratory (Feb'20 - May'20)<br>This research internship was apart of the master's which was done towards the end of M1 (first year of master's)<br> * Topic: Developing an FPGA benchmark in CHISEL for specific chosen kernels<br> * Implementation of convolution using multiplication method in CHISEL (an HDL language)</li></ul> |
-| <img style="padding-right: 25px; float: left;" src="./images/lirmm-logo.jpg" width = "400"> | <h3>Research Intern, LIRMM (May’18 - July’18)</h3> Worked in the area of software diversity to detect Hardware Trojans (HWT)<br><ul><li>Literature Review of existing works and a detailed study about Hardware Trojans</li><li>Implemented a metric for finding out number of HWT triggers using MATLAB and C++</li><li>Contributed to 2 research papers for publishing in an international conference    |
-| <img style="padding-right: 25px; float: left;" src="./images/IITJ-logo.jpg" width = "400"> | <h3>Research Intern, IIT Jodhpur (May’17 – July’17)</h3>This internship served as the transition to MATLAB for programming signal processing elements. The knowledge of MATLAB would be used to implement signal processing based GPS algorithm.<br><ul><li>Learnt basics of MATLAB</li><li>Implemented part of GPS receiver in MATLAB & improved an algorithm for error calculation     |
