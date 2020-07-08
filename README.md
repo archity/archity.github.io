@@ -1,10 +1,10 @@
-<!---
-<img style="padding-right: 25px; float: right;" src="./images/archit-hike.jpeg" width = "200">
--->
+
+<img style="padding-left: 0px; float: right;" src="./images/archit-hike.jpeg" width = "1">
+
 
 I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France. I recently completed my first year of master's M1 and would be pursuing M2 starting from September 2020 with specialization Artificial Intelligence and the Web (AIW).
 
-My main fields of interests are Singla Processing, Embededd Systems and AI.
+My main fields of interests are Signal Processing, Embededd Systems and AI.
 
 [Personal Email](mailto:archityadav97@gmail.com) / [Academic Email](mailto:archit.yadav@etu.univ-grenoble-alpes.fr) / [Résumé]() / [GitHub](https://github.com/archity/) / [LinkedIn](https://www.linkedin.com/in/archit-yadav-95482b156/)
 
@@ -102,11 +102,11 @@ In my free time, I enjoy drawing/sketching. [Here]() is the link to my drawings/
 
 # Education Details
 
-## Université Grenoble Alpes, Grenoble, France
+**Université Grenoble Alpes, Grenoble, France** <br>
 MSc. in Informatics (Computer Science) at Grenoble (MoSIG, 2019-2021)
 
-## Shiv Nadar University, Greater Noida, India
+**Shiv Nadar University, Greater Noida, India**<br>
 B-Tech in Electronics & Communication Engineering (2015-2019)
 
-## Delhi Public School, Jodhpur, India
+**Delhi Public School, Jodhpur, India**<br>
 Sciences (Physics, Chemistry, Mathematics) + Computer Science (CBSE, 2013 - 2015)
