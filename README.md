@@ -11,12 +11,50 @@ My main fields of interests are Singla Processing, Embededd Systems and AI.
 In my free time, I enjoy drawing/sketching. [Here]() is the link to my drawings/artwork.
 
 
+
 ## Experience
+
+
+
+<table>
+  <tbody>
+    <tr>
+      <th>Tables</th>
+      <th align="center">Are</th>
+      <th align="right">Cool</th>
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td align="center">right-aligned</td>
+      <td align="right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td align="center">centered</td>
+      <td align="right">$12</td>
+    </tr>
+    <tr>
+      <td>zebra stripes</td>
+      <td align="center">are neat</td>
+      <td align="right">$1</td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td align="center">See the list</td>
+      <td align="right">from the first column</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
 |||
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img style="padding-right: 25px; float: left;" src="./images/tima-logo.jpg" width = "400"> | <h3> Research Intern, TIMA Laboratory (Feb'20 - May'20)</h3> This research internship was apart of the master's which was done towards the end of M1 (first year of master's)<br><ul><li>Topic: Developing an FPGA benchmark in CHISEL for specific chosen kernels</li><li>Implementation of convolution using multiplication method in CHISEL (an HDL language)</li></ul> |
+| <img style="padding-right: 25px; float: left;" src="./images/tima-logo.jpg" width = "400"> |  Research Intern, TIMA Laboratory (Feb'20 - May'20)<br>This research internship was apart of the master's which was done towards the end of M1 (first year of master's)<br> * Topic: Developing an FPGA benchmark in CHISEL for specific chosen kernels<br> * Implementation of convolution using multiplication method in CHISEL (an HDL language)</li></ul> |
 | <img style="padding-right: 25px; float: left;" src="./images/lirmm-logo.jpg" width = "400"> | <h3>Research Intern, LIRMM (May’18 - July’18)</h3> Worked in the area of software diversity to detect Hardware Trojans (HWT)<br><ul><li>Literature Review of existing works and a detailed study about Hardware Trojans</li><li>Implemented a metric for finding out number of HWT triggers using MATLAB and C++</li><li>Contributed to 2 research papers for publishing in an international conference    |
 | <img style="padding-right: 25px; float: left;" src="./images/IITJ-logo.jpg" width = "400"> | <h3>Research Intern, IIT Jodhpur (May’17 – July’17)</h3>This internship served as the transition to MATLAB for programming signal processing elements. The knowledge of MATLAB would be used to implement signal processing based GPS algorithm.<br><ul><li>Learnt basics of MATLAB</li><li>Implemented part of GPS receiver in MATLAB & improved an algorithm for error calculation     |
