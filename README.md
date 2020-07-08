@@ -19,37 +19,42 @@ In my free time, I enjoy drawing/sketching. [Here]() is the link to my drawings/
 <table>
   <tbody>
     <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
-    </tr>
-    <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
-      <td align="right">$12</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
-      <td align="right">$1</td>
-    </tr>
-    <tr>
+      <td><img src="./images/tima-logo.jpg" width = "100"></td>
       <td>
+        <h3>Research Intern, TIMA Laboratory (Feb'20 - May'20)</h3>
+        This research internship was apart of the master's which was done towards the end of M1 (first year of master's)
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+            <li> Topic: Developing an FPGA benchmark in CHISEL for specific chosen kernels </li>
+            <li> Implementation of convolution using multiplication method in CHISEL (an HDL language) </li>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="./images/lirmm-logo.jpg" width = "100"></td>
+      <td>
+        <h3>Research Intern, LIRMM (May’18 - July’18)</h3>
+        <ul>
+            <li> Literature Review of existing works and a detailed study about Hardware Trojans </li>
+            <li> Implemented a metric for finding out number of HWT triggers using MATLAB and C++ </li>
+            <li> Contributed to 2 research papers for publishing in an international conference </li>
         </ul>
       </td>
-      <td align="center">See the list</td>
-      <td align="right">from the first column</td>
+    </tr>
+    <tr>
+      <td><img src="./images/IITJ-logo.jpg" width = "100"></td>
+      <td>
+        <h3>Research Intern, IT Jodhpur (May’17 – July’17)</h3>
+        This internship served as the transition to MATLAB for programming signal processing elements. The knowledge of MATLAB would be used to implement signal processing based GPS algorithm.
+        <ul>
+            <li> Learnt basics of MATLAB </li>
+            <li> Implemented part of GPS receiver in MATLAB & improved an algorithm for error calculation </li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
+
+
+TABLE 2
 
 
 
