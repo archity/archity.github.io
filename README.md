@@ -11,7 +11,7 @@ My main fields of interests are Signal Processing, Embededd Systems and AI.
 In my free time, I enjoy drawing/sketching. [Here](https://www.instagram.com/architydraws/) is the link to my drawings/artwork.
 
 # Experience
-[Deatiled list](./Experience.md) of all my internships and experience.
+[Detailed list](./Experience.md) of all my internships and experiences.
 
 # Research Projects
 
