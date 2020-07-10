@@ -10,8 +10,12 @@ My main fields of interests are Signal Processing, Embededd Systems and AI.
 
 In my free time, I enjoy drawing/sketching. [Here](https://www.instagram.com/architydraws/) is the link to my drawings/artwork.
 
+---
+
 # Experience
 [Detailed list](./Experience.md) of all my internships and experiences.
+
+---
 
 # Research Projects
 
@@ -24,6 +28,8 @@ Some of my academic projects related to research on AI and Machine Learning:
 * Mobile App based password generator
 
 Detailed list of all academic projects can be found [here](./Projects.md).
+
+---
 
 # Achievements
 
@@ -56,7 +62,7 @@ Detailed list of all academic projects can be found [here](./Projects.md).
   </tbody>
 </table>
 
-
+---
 
 # Education Details
 
