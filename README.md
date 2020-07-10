@@ -23,7 +23,7 @@ Some of my academic projects related to research on AI and Machine Learning:
 * Stock Price Prediction using Machine Learning
 * Mobile App based password generator
 
-Detailed list of all academic projects can be found [here]().
+Detailed list of all academic projects can be found [here](./Projects.md).
 
 # Achievements
 
