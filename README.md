@@ -15,9 +15,15 @@ In my free time, I enjoy drawing/sketching. [Here](https://www.instagram.com/arc
 
 # Research Projects
 
-List of my academic projects:
+Some of my academic projects related to research on AI and Machine Learning:
 
-* 
+* Digit Recognition using Neural Network
+* Fairness in Classification on COMPAS Dataset
+* Analysis of Mobile App Store Applications
+* Stock Price Prediction using Machine Learning
+* Mobile App based password generator
+
+Detailed list of all academic projects can be found [here]().
 
 # Achievements
 
@@ -33,7 +39,7 @@ List of my academic projects:
             <ul>
                 <li> Two joint research papers expected to be published at a conference </li>
                 <li> Result of work done in internship at LIRMM under Giorgio Di Natale </li>
-                <li>Paper snippet</li>
+                <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
             </ul>
         </ul>
       </td>
