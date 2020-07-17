@@ -2,7 +2,7 @@
 <img style="padding-left: 15px; padding-down:15px; float: right;" src="./images/archit-hike.jpeg" width = "200">
 
 
-I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France. I recently completed my first year of master's M1 and would be pursuing M2 starting from September 2020 with specialization Artificial Intelligence and the Web (AIW).
+I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France.
 
 My main fields of interests are Signal Processing, Embededd Systems and AI.
 
