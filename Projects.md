@@ -7,6 +7,9 @@ Digit Recognition using Neural Network
 * Applied various CNN architectures and did several experiments
 * Made use of Keras and scikit-learn
 
+* [GitHub](https://github.com/archity/mnist-image-classifier) Repository
+
+
 ---
 
 Fairness in Classification on COMPAS Dataset
