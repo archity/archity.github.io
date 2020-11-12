@@ -1,7 +1,4 @@
 
-<img style="padding-left: 15px; padding-down:15px; float: right;" src="./images/archit-hike.jpeg" width = "200">
-
-
 I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France.
 
 My main fields of interests are Signal Processing, Embededd Systems and AI.

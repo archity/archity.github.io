@@ -1,14 +1,6 @@
-#theme: jekyll-theme-midnight
-
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-
-
 theme: jekyll-theme-minimal
+
 title: Archit Yadav
-logo: https://github.com/archity/archity.github.io/blob/master/images/LaMure-min.jpg?raw=true
+
+markdown: kramdown
+
