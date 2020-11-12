@@ -25,6 +25,10 @@
 
         {{ site.sidetext | default: site.github.project_tagline }}
 
+        <ul class="links">
+          {{ site.extralinks }}
+          
+        </ul>
 
         {% if site.show_downloads %}
         <ul class="downloads">
