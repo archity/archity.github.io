@@ -2,6 +2,12 @@
 
 ## Machine Learning / Data Science based projects
 
+Understanding COVID-19 Trends on Twitter
+* Current personal project underway
+* Implemented command-line bsaed scrapper for obtainng the links of tweets for specific range of months.
+* Currently in the process of applying various analysis techniques, including NLTK.
+* [GitHub](https://github.com/archity/covid-twitter-trends) Repository
+
 Digit Recognition using Neural Network
 * Made an image classifier for recognizing handwritten digits
 * Applied various CNN architectures and did several experiments
@@ -75,4 +81,4 @@ Mobile App based password generator
 
 <br><br>
 
-[Return to main page](./README.md)
+[Return to main page](./index.md)

@@ -20,11 +20,10 @@ In my free time, I enjoy drawing/sketching. [Here](https://www.instagram.com/arc
 
 Some of my academic projects related to research on AI and Machine Learning:
 
+* Understanding COVID-19 Trends on Twitter
 * Digit Recognition using Neural Network
 * Fairness in Classification on COMPAS Dataset
-* Analysis of Mobile App Store Applications
-* Stock Price Prediction using Machine Learning
-* Mobile App based password generator
+
 
 Detailed list of all academic projects can be found [here](./Projects.md).
 
