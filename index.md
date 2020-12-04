@@ -65,10 +65,10 @@ Detailed list of all academic projects can be found [here](./Projects.md).
 # Education Details
 
 **Université Grenoble Alpes, Grenoble, France** <br>
-MSc. in Informatics (Computer Science) at Grenoble (MoSIG, 2019-2021)
+MSc. in Informatics (Computer Science) at Grenoble (MoSIG)
 
 **Shiv Nadar University, Greater Noida, India**<br>
-B-Tech in Electronics & Communication Engineering (2015-2019)
+B-Tech in Electronics & Communication Engineering, 2019
 
 **Delhi Public School, Jodhpur, India**<br>
-Sciences (Physics, Chemistry, Mathematics) + Computer Science (CBSE, 2013 - 2015)
+Sciences (Physics, Chemistry, Mathematics) + Computer Science, 2015
