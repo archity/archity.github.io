@@ -7,7 +7,7 @@ My main fields of interests are Signal Processing, Embededd Systems and AI.
 
 [Personal Email](mailto:archityadav97@gmail.com) / [Academic Email](mailto:archit.yadav@etu.univ-grenoble-alpes.fr) / [Résumé]() / [GitHub](https://github.com/archity/) / [LinkedIn](https://www.linkedin.com/in/archit-yadav-95482b156/)
 
-In my free time, I enjoy drawing/sketching. [Here](https://www.instagram.com/architydraws/) is the link to my drawings/artwork.
+In my free time, I enjoy drawing/sketching. [Here](./Drawings.md) is the link to some of my drawings/artwork.
 
 ---
 
