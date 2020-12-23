@@ -9,17 +9,17 @@ img
 }
 </style>
 
-<img src="./images/Archit_Main.jpg" align="right" style="margin5px" width = "200">
+<img src="./images/Archit_Main.jpg" align="right" style="margin:5px" width = "200">
 
 I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France.
 
 My main fields of interests are Signal Processing, Embededd Systems and AI.
 
-[Personal Email](mailto:archityadav97@gmail.com) / [Academic Email](mailto:archit.yadav@etu.univ-grenoble-alpes.fr) / [Résumé]() / [GitHub](https://github.com/archity/) / [LinkedIn](https://www.linkedin.com/in/archit-yadav-95482b156/)
+ [Résumé]()
 
 In my free time, I enjoy drawing/sketching. [Here](./drawings.md) is the link to some of my drawings/artwork.
 
-<br>
+<br><br><br>
 ---
 
 # Experience
