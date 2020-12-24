@@ -1,6 +1,6 @@
 ## Currently Reading
 <br>
-<table border="1" style="width:200px">
+<table border="1" style="width:300px">
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/clashofkings_grrm_360px.jpg" width = "150">
@@ -18,7 +18,7 @@
 
 ## Recently Reads
 <br>
-<table border="1" style="width:200px">
+<table border="1" style="width:300px">
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/agameofthrones_grrm_360px.jpg" width = "150">
