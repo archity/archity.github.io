@@ -4,12 +4,18 @@
 
 Understanding COVID-19 Trends on Twitter
 * Current personal project underway
+<img src="./images/virus_360px.png" align="right" style="margin:5px" width = "80">
+
 * Implemented command-line bsaed scrapper for obtainng the links of tweets for specific range of months.
 * Currently in the process of applying various analysis techniques, including NLTK.
 * [GitHub](https://github.com/archity/covid-twitter-trends) Repository
 
+---
+
 Digit Recognition using Neural Network
 * Made an image classifier for recognizing handwritten digits
+<img src="./images/digit-eight.png" align="right" style="margin:5px" width = "80">
+
 * Applied various CNN architectures and did several experiments
 * Made use of Keras and scikit-learn
 
@@ -19,12 +25,16 @@ Digit Recognition using Neural Network
 ---
 
 Fairness in Classification on COMPAS Dataset
+<img src="./images/arrest.png" align="right" style="margin:5px" width = "90">
+
 * Performed analysis of bias in arrests
 * Applied several classifiers to learn about trends in recidivism
 
 ---
 
 Analysis of Mobile App Store Applications
+<img src="./images/mobile.png" align="right" style="margin:5px" width = "70">
+
 * Performed analysis of 24k+ mobile apps
 * Made a web scrapper for Google Play Store using Python
 
@@ -33,6 +43,8 @@ Analysis of Mobile App Store Applications
 Stock Price Prediction using Machine Learning
 
 * Performed basic data analysis
+<img src="./images/stock-market.png" align="right" style="margin:5px" width = "70">
+
 * Applied several algorithms to predict stock price
 * Used Linear Regression (MATLAB code), SVM (Python) and Neural Networks (MATLAB toolbox), along with PCA for feature reduction
 * [GitHub](https://github.com/archity/AML-Project) Repository
