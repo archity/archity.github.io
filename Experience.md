@@ -3,11 +3,11 @@
 <table>
   <tbody>
     <tr>
-      <td></td>
+      <td><img src="./images/tsoai_ppt_wc.jpg" width = "200"></td>
       <td>
         <h2>Open-Source Researcher, The Sound of AI (Feb'21 - present)</h2>
         • Part of an open-source research community for the development/research of a voice controlled neural synthesizer (AI based) for generating musical sounds <br>
-        • Working in the dataset team; current responsibilities - NLP based data augmentation of text, Named-entity Recognition (NER) of musical instruments using spaCy<br>
+        • Working in the dataset team; current responsibilities - NLP based data augmentation of text; Named-entity Recognition (NER) of musical instruments using spaCy<br>
       </td>
     </tr>
     <tr>
