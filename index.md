@@ -14,9 +14,7 @@ Hello World!
 
 I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France.
 
-My main fields of interests broadly are Signal Processing, Embededd Systems and AI. Specific fields of interests are Natural Language Processing (NLP), and recently I'm also trying to learn about Music Information Retrieval (MIR), which had caught my interest. Currently, I'm focussing on NLP through a project on the changing Twitter trends related to COVID-19 pandemic.
-
-[Résumé]()
+My main fields of interests broadly are Signal Processing, Embededd Systems and AI. Specific fields of interests are Natural Language Processing (NLP), and recently I'm also trying to learn about Music Information Retrieval (MIR), which had caught my interest.
 
 In my free time, I enjoy drawing/sketching. Reading is another hobby of mine since a long time. Here are the links to some of my [artworks](./drawings.md), and my current [reading](./reads.md) list.
 
@@ -29,11 +27,10 @@ In my free time, I enjoy drawing/sketching. Reading is another hobby of mine sin
 
 # Research Projects
 
-Some of my academic projects related to research on AI and Machine Learning:
+Some of my projects related to research on AI and Machine Learning:
 
+* Music Genre Classifier
 * Understanding COVID-19 Trends on Twitter
-* Digit Recognition using Neural Network
-* Fairness in Classification on COMPAS Dataset
 
 Detailed list of all academic projects can be found [here](./Projects.md).
 
@@ -42,9 +39,9 @@ Detailed list of all academic projects can be found [here](./Projects.md).
 # Publications
 
 
-<i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”
+<i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”</i>
 
-“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i>
+<i>“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i>
 <ul>
     <li> Two joint research papers expected to be published at a conference </li>
     <li> Result of work done in internship at LIRMM under Prof. Giorgio Di Natale </li>
