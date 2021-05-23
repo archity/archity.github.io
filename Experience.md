@@ -47,4 +47,17 @@
 
 <br><br>
 
+# Publications
+
+<i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”</i>
+
+<i>“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i>
+<ul>
+    <li> Two joint research papers expected to be published at a conference </li>
+    <li> Result of work done in internship at LIRMM under Prof. Giorgio Di Natale </li>
+    <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
+</ul>
+
+<br><br>
+
 [Return to main page](./index.md)
