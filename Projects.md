@@ -56,7 +56,6 @@ Stock Price Prediction using Machine Learning
 <br>
 
 ---
----
 
 <br>
 
@@ -84,7 +83,6 @@ Gyro controlled Vehicle
 
 <br>
 
----
 ---
 
 <br>
