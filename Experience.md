@@ -23,10 +23,13 @@
     <tr>
       <td><img src="./images/snu_delhi_ncr_logo.jpg" width = "200"></td>
       <td>
-        <h2>Researcher, Shiv Nadar Unniveristy (Sep'18 - Apr'19)</h2>
+        <h2>Researcher, Shiv Nadar University (Sep'18 - Apr'19)</h2>
         <h3>MIMO Communication System based Researcher</h3>
-        • Part of an open-source research community for the development/research of a voice controlled neural synthesizer (AI based) for generating musical sounds <br>
-        • Working in the dataset team; current responsibilities - NLP based data augmentation of text; Named-entity Recognition (NER) of musical instruments using spaCy<br>
+        •	Performed a study of MIMO communication system; Implemented a basic model in MATLAB; made use of various signal processing techniques like Multi-path fading, block coding<br>
+        •	Implemented Transmitter as well as Receiver, both incorporating various blocks like QPSK Modulator/ Demodulator, Filter, Ramanujan Phasor Estimation to name a few<br>
+        •	Translated the model in Simulink and interfaced with USRP board (SDR, Software-Defined Radio based)<br>
+        •	Studied about possible data encoding techniques like Arithmetic Coding, Huffman Coding; Antenna Switching and Spatial Modulation<br>
+        •	Conducted a tutorial session on behalf of Prof. Vijay K. Chakka for introducing MIMO to a junior undergrad batch<br>
       </td>
     </tr>
     <tr>
