@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Projects
 
 ## Machine Learning / Data Science based projects
@@ -95,4 +99,4 @@ Mobile App based password generator
 
 <br><br>
 
-[Return to main page](./index.md)
+[Return to main page](./index.html)

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Experience
 
 <table>
@@ -7,58 +11,75 @@
       <td>
         <h2>Open-Source Researcher, The Sound of AI (Feb'21 - present)</h2>
         <h3>NLP Researcher</h3>
+        <p align="justify">
         • Part of an open-source research community for the development/research of a voice controlled neural synthesizer (AI based) for generating musical sounds <br>
-        • Working in the dataset team; current responsibilities - NLP based data augmentation of text; Named-entity Recognition (NER) of musical instruments using spaCy<br>
+        • Working in the dataset team; current responsibilities - NLP based data augmentation of text; Named-entity Recognition (NER) of musical instruments using spaCy<br><br>
+        </p>
       </td>
     </tr>
     <tr>
       <td><img src="./images/tima-logo.jpg" width = "200"></td>
       <td>
+        <br>
         <h2>Research Intern, TIMA (Feb'20 - June'20)</h2>
         <h3>Study of CHISEL Language for FPGAs</h3>
+        <p align="justify">
         • Literature Review and a detailed study about CHISEL language and multiplication based convolution<br>
-        • Proposed a modified approach for convolution incorporating parallelism<br>
+        • Proposed a modified approach for convolution incorporating parallelism<br><br>
+        </p>
       </td>
     </tr>
     <tr>
       <td><img src="./images/snu_delhi_ncr_logo.jpg" width = "200"></td>
       <td>
+        <br>
         <h2>Researcher, Shiv Nadar University (Sep'18 - Apr'19)</h2>
         <h3>MIMO Communication System based Researcher</h3>
+        <p align="justify">
         •	Performed a study of MIMO communication system; Implemented a basic model in MATLAB; made use of various signal processing techniques like Multi-path fading, block coding<br>
         •	Implemented Transmitter as well as Receiver, both incorporating various blocks like QPSK Modulator/ Demodulator, Filter, Ramanujan Phasor Estimation to name a few<br>
         •	Translated the model in Simulink and interfaced with USRP board (SDR, Software-Defined Radio based)<br>
         •	Studied about possible data encoding techniques like Arithmetic Coding, Huffman Coding; Antenna Switching and Spatial Modulation<br>
-        •	Conducted a tutorial session on behalf of Prof. Vijay K. Chakka for introducing MIMO to a junior undergrad batch<br>
+        •	Conducted a tutorial session on behalf of Prof. Vijay K. Chakka for introducing MIMO to a junior undergrad batch<br><br>
+        </p>
       </td>
     </tr>
     <tr>
       <td><img src="./images/lirmm-logo.jpg" width = "200"></td>
       <td>
+        <br>
         <h2>Research Intern, LIRMM (May'18 - July'18)</h2>
         <h3>Hardware Trojan based Software Developer</h3>
+        <p align="justify">
         •	Learnt about Hardware Trojan (HWT); Reported extensive literature review; Implemented a metric for finding out number of HWT trigger attacks in order of millions using C++ and MATLAB<br>
         •	Optimized trigger calculation and reduced computation time in the order of days to minutes<br>
         •	Met Specific deadlines for finalizing two scientific papers; <i>"demonstrated to have above-average software engineering skills, rigor, scientific curiosity, perseverance and demonstrated important human relation skills",</i> as mentioned by the supervisor <br>
-        • Contributed to 2 research papers for publishing in an international conference
+        • Contributed to 2 research papers for publishing in an international conference<br><br>
+        </p>
       </td>
     </tr>
     <tr>
       <td><img src="./images/IITJ-logo.jpg" width = "200"></td>
       <td>
+        <br>
         <h2>Research Intern, IIT Jodhpur (May'17 – July'17)</h2>
         <h3>GNSS Receiver Developer</h3>
+        <p align="justify">
         •	Reported a background study on GNSS (Global Navigation Satellite System) technology <br>
-        • Implemented part of GPS receiver in MATLAB & improved an algorithm for error calculation.
+        • Implemented part of GPS receiver in MATLAB & improved an algorithm for error calculation.<br><br>
+        </p>
       </td>
     </tr>
     <tr>
       <td><img src="./images/drdo-logo.png" width = "200"></td>
       <td>
+        <br>
         <h2>Summer Trainee, DRDO (May'16 – July'16)</h2>
         <h3>Radiation based Hardware-Software Developer</h3>
+        <p align="justify">
         • Learnt the basics of a microcontroller; Learnt C for hardware, and Java for Android<BR>
-        • Designed and implemented an Android app; Established a wired connection between the app and microcontroller for data transfer; textual and graphical display of data on the app
+        • Designed and implemented an Android app; Established a wired connection between the app and microcontroller for data transfer; textual and graphical display of data on the app<br><br>
+        </p>
       </td>
     </tr>
   </tbody>
@@ -79,4 +100,4 @@
 
 <br><br>
 
-[Return to main page](./index.md)
+[Return to main page](./index.html)

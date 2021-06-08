@@ -1,0 +1,118 @@
+I"j<h1 id="projects">Projects</h1>
+
+<h2 id="machine-learning--data-science-based-projects">Machine Learning / Data Science based projects</h2>
+
+<p>Music Processing and Genre Classifier using AI</p>
+<ul>
+  <li>Studied and implemented basic audio data analysis like waveform, spectrogram, Extracting MFCCs
+<img src="./images/audio_signal.jpeg" align="right" style="margin:5px" width="100" /></li>
+  <li>Implemented a music genre classifier based on dataset of GTZAN; Built dataset based on extracted MFCCs</li>
+  <li>Experimented with Basic Neural Network, CNN and RNN (LSTM)</li>
+  <li>Main libraries: TensorFlow/Keras, Librosa, Sklearn and SpotiPy</li>
+  <li><a href="https://github.com/archity/music-processing">GitHub</a> repository</li>
+</ul>
+
+<hr />
+
+<p>Understanding COVID-19 Trends on Twitter</p>
+<ul>
+  <li>Current personal project underway
+<img src="./images/virus_360px.png" align="right" style="margin:5px" width="80" /></li>
+  <li>Implemented command-line bsaed scrapper for obtainng the links of tweets for specific range of months.</li>
+  <li>Currently in the process of applying various analysis techniques, including NLTK.</li>
+  <li><a href="https://github.com/archity/covid-twitter-trends">GitHub</a> Repository</li>
+</ul>
+
+<hr />
+
+<p>Digit Recognition using Neural Network</p>
+<ul>
+  <li>Made an image classifier for recognizing handwritten digits
+<img src="./images/digit-eight.png" align="right" style="margin:5px" width="80" /></li>
+  <li>Applied various CNN architectures and did several experiments</li>
+  <li>Made use of Keras and scikit-learn</li>
+  <li><a href="https://github.com/archity/mnist-image-classifier">GitHub</a> Repository</li>
+</ul>
+
+<hr />
+
+<p>Fairness in Classification on COMPAS Dataset
+<img src="./images/arrest.png" align="right" style="margin:5px" width="90" /></p>
+<ul>
+  <li>Performed analysis of bias in arrests</li>
+  <li>Applied several classifiers to learn about trends in recidivism</li>
+</ul>
+
+<hr />
+
+<p>Analysis of Mobile App Store Applications
+<img src="./images/mobile.png" align="right" style="margin:5px" width="70" /></p>
+<ul>
+  <li>Performed analysis of 24k+ mobile apps</li>
+  <li>Made a web scrapper for Google Play Store using Python</li>
+</ul>
+
+<hr />
+
+<p>Stock Price Prediction using Machine Learning</p>
+
+<ul>
+  <li>Performed basic data analysis
+<img src="./images/stock-market.png" align="right" style="margin:5px" width="70" /></li>
+  <li>Applied several algorithms to predict stock price</li>
+  <li>Used Linear Regression (MATLAB code), SVM (Python) and Neural Networks (MATLAB toolbox), along with PCA for feature reduction</li>
+  <li><a href="https://github.com/archity/AML-Project">GitHub</a> Repository</li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+
+<p><br /></p>
+
+<h2 id="embedded-systems--electronics-projects">Embedded Systems / Electronics projects</h2>
+
+<p>Hardware Implementation of MIMO</p>
+<ul>
+  <li>Bachelor’s major project</li>
+  <li>MIMO model studied and implemented in MATLAB</li>
+  <li>Model made in Simulink and interfaced with USRP (SDR based) board</li>
+</ul>
+
+<hr />
+
+<p>FPGA Pong Game</p>
+<ul>
+  <li>Implemented on an FPGA using Verilog</li>
+  <li>Designed walls, bricks and a moving ball and paddle</li>
+  <li>Secured ‘A’ grade in the same course</li>
+  <li><a href="https://github.com/archity/Breakout-Game-Verilog">GitHub</a> Repository</li>
+</ul>
+
+<hr />
+
+<p>Gyro controlled Vehicle</p>
+<ul>
+  <li>Made a remote-controlled vehicle using gyroscope sensor</li>
+  <li>Implemented on STM32 microcontroller using MPU6050 sensor</li>
+  <li>ZigBee used for communication between vehicle and remote (MPU sensor)</li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+
+<p><br /></p>
+
+<h2 id="other-projects">Other Projects</h2>
+
+<p>Mobile App based password generator</p>
+<ul>
+  <li>Android app that generates password specific to device</li>
+  <li>Developed a cryptographic algorithm for generation</li>
+</ul>
+
+<p><br /><br /></p>
+
+<p><a href="./index.html">Return to main page</a></p>
+:ET

@@ -1,10 +1,26 @@
+---
+layout: default
+---
+
 # Drawings
 
 Some of my favourite drawings. More can be found on my [Instagram](https://www.instagram.com/architydraws/) drawing acccount.
 
 <br>
 
-<table border="1">
+<style>
+  table
+  {
+    border: none;
+  }
+  td
+  {
+    background: black;
+    border: none;
+  }
+</style>
+
+<table border=0px rules=none>
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LaurenCohanPortrait.jpg" width = "200">
@@ -22,6 +38,7 @@ Some of my favourite drawings. More can be found on my [Instagram](https://www.i
       <p style="font-size: 9px">(Music credits: The Night King by <a href="https://youtu.be/k1frgt0D_f4" style="font-size: 9px">Ramin Djawadi</a>)</p></td>
     </tr>
     
+    
   </tbody>
 </table>
 
@@ -38,4 +55,4 @@ A timelapse video portrait I made of Steve Jobs was [featured](https://fb.watch/
 
 <br><br>
 
-[Return to main page](./index.md)
+[Return to main page](./index.html)
