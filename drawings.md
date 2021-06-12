@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Drawings
+# Artworks
 
 Some of my favourite drawings. More can be found on my [Instagram](https://www.instagram.com/architydraws/) drawing acccount.
 
@@ -47,7 +47,7 @@ Some of my favourite drawings. More can be found on my [Instagram](https://www.i
 
 <br><br>
 
-## Featured artwork
+# Featured artwork
 
 A timelapse video portrait I made of Steve Jobs was [featured](https://fb.watch/2xXxcg3SXF/) by my university's drawing club.
 
