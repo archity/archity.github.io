@@ -30,7 +30,7 @@ Organisation of rest of this website as follows:
 
 * [Projects](#projects)
 * [Work/Research Experience](#work-experience)
-* [Education]()
+* [Education](#education)
 * [Publications](#publications)
 * [Artworks](#artworks)
 
@@ -119,7 +119,7 @@ ul
   </tbody>
 </table>
 
-<br><br>
+<br><br><br>
 
 <style>
 .work table
@@ -181,7 +181,40 @@ ul
 
 More on experience [here](./Experience.html)
 
-<br><br>
+<br><br><br>
+
+# Education
+
+## MSc. Computer Science (MoSIG)
+
+<img src="./images/ensimag_uga_logo.png" width = "200" align = "right" style="padding:10px">
+
+* Université Grenoble Alpes (UGA) - ENSIMAG  
+Grenoble, France
+* Specialization: Human and Digital World Interaction (HDWI)
+* Grad year: 2022
+* Grade point: 12/20
+* Courses taken in HDWI:
+  * Robotics
+  * Human in the Loop
+  * Augmented and Virtual Reality
+  * Computer Vision
+  * Natural Language Processing
+  * Machine Learning for Multimodal Data
+
+<br>
+
+## B.Tech. Electronics & Communication
+
+<img src="./images/snu_logo.jpg" width = "180" align = "right" style="padding:10px">
+
+* Shiv Nadar University (SNU)  
+Greater Noida, India
+* Grad year: 2019
+* Grade point: 7.85/10
+* Thesis: Background Study and Hardware/Software Implementation of MIMO
+
+<br><br><br>
 
 # Publications
 
@@ -203,13 +236,15 @@ More on experience [here](./Experience.html)
 
 <ul>
 <li><a href="https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218"><i>"Generating/Expanding your datasets with synthetic data"</i></a></li>
-<ul>
-    <li> Also featured as a <a href="https://www.linkedin.com/posts/towards-data-science_generatingexpanding-your-datasets-with-synthetic-activity-6830942570487578624-cbWN"> post </a> by TDS' official LinkedIn page</li>
-</ul>
 <li><a href="https://towardsdatascience.com/modeling-and-generating-time-series-data-using-timegan-29c00804f54d"><i>"Modeling and Generating Time-Series Data using TimeGAN"</i></a></li>
+<ul>
+    <li> Both articles featured as a   post by TDS' official LinkedIn page</li>
+    <li> <a href="https://www.linkedin.com/posts/towards-data-science_generatingexpanding-your-datasets-with-synthetic-activity-6830942570487578624-cbWN">LinkedIn post 1 </a> </li>
+    <li> <a href="https://www.linkedin.com/posts/towards-data-science_modeling-and-generating-time-series-data-activity-6842039187789754368-rUPi">LinkedIn post 2 </a> </li>
+</ul>
 </ul>
 
-<br><br>
+<br><br><br>
 
 # Artworks
 
