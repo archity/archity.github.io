@@ -10,114 +10,69 @@ layout: default
 }
 </style>
 
-<a href="mailto:archityadav97@gmail.com"><img src="images/gmail_200px.png" width = 30px></a>
+<a href="mailto:archityadav97@gmail.com"><img src="images/gmail.svg" width = 30px></a>
 <a href="mailto:archit.yadav@etu.univ-grenoble-alpes.fr"><img src="images/uga_146px.png" width = 30px></a>
-<a href="https://github.com/archity/"><img src="images/GitHub-Mark-Light-64px.png" width = 30px></a>
-<a href="https://www.linkedin.com/in/archit-yadav-95482b156/"><img src="images/Linkedin-64px.png" width = 30px></a>
+<a href="https://github.com/archity/"><img src="images/github.svg" width = 30px></a>
+<a href="https://www.linkedin.com/in/archit-yadav-95482b156/"><img src="images/linkedin.svg" width = 30px></a>
+<a href="https://medium.com/@archityadav97"><img src="images/medium.png" width = 30px></a>
+<a href="https://open.spotify.com/user/ht3095oj4tv2bn2j64ppw87mm?si=02be29f02813407b"><img src="images/spotify.svg" width = 30px></a>
 
 
-<img src="./images/archit_main.png" class="arcimg" align="right" style="margin:5px" width = "180">
+<img src="./images/archityadav_1000px.jpg" class="arcimg" align="right" style="margin:5px" width = "180">
 
-Hello World!
+Hi there!
 
 I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France.
 
-My main fields of interests broadly are Signal Processing, Embededd Systems and AI. Specific fields of interests are Natural Language Processing (NLP), and audio-based AI, or Music Information Retrieval (MIR).
+My main fields of interests broadly are Signal Processing, Embededd Systems and AI.
+
+Specific fields of interests:
+* 📜 Natural Language Processing (NLP),
+* 🎵 Audio-based AI, or Music Information Retrieval (MIR).
+* 📡 ML-based Signal Processing
 
 In my free time, I enjoy drawing/sketching. Reading is another hobby of mine since a long time. Here are some of my [artworks](#artworks), and my current [reading](./reads.html) list.
 
 Organisation of rest of this website as follows:
 
-* [Projects](#projects)
-* [Work/Research Experience](#work-experience)
 * [Education](#education)
+* [Work/Research Experience](#work-experience)
 * [Publications](#publications)
+* [Projects](#projects)
 * [Artworks](#artworks)
 
 <br><br><br>
 
-<style>
-.project img
-{
-  border-radius:10%;
-}
-.project table
-{
-  border: none;
-}
-.project td
-{
-  background: black;
-  border: 1px solid gray;
+# Education
 
-  width:500px;
-  overflow:hidden;
-  word-wrap:break-word;
-}
-ul
-{
-  text-align: left;
-}
-</style>
+## MSc. Computer Science (MoSIG)
 
+<img src="./images/ensimag_uga_logo.png" width = "200" align = "right" style="padding:10px">
 
-# Projects
+* Université Grenoble Alpes (UGA) - ENSIMAG  
+Grenoble, France
+* Specialization: Human and Digital World Interaction (HDWI)
+* Grad year: 2022
+* Grade point: 12/20
+* Courses taken in HDWI:
+  * Robotics
+  * Human in the Loop
+  * Augmented and Virtual Reality
+  * Computer Vision
+  * Natural Language Processing
+  * Machine Learning for Multimodal Data
 
+<br>
 
-<table align=center class="project">
-  <tbody>
-    <tr>
-      <!-- Cell 1 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>Music Processing and Genre Classifier using DSP and Deep Learning</h3><br>
-      <img src="./images/audio_signal.jpeg" height = "150" style="margin:10px">
-      <ul>
-        <li> Goal: Understand audio as input data and identify its characteristics; Build a model to distinguish different genres of music using Digital Signal Processing and RNN/LSTM architectures </li>
-        <li> Performed basic audio data analysis like waveform, spectrogram, Extracting MFCCs </li>
-        <li> Implemented a music genre classifier based on dataset of GTZAN; Built dataset based on extracted MFCCs from audio files; Experimented with Basic Neural Network, CNN and RNN (LSTM) </li>
-        <li> Currently in process of predicting genre from Spotify songs </li>
-        <li> <a href="https://github.com/archity/music-processing">GitHub repository</a> </li>
-      </ul>
-      <br></td>
-      <!-- Cell 2 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>Understanding COVID-19 Trends on Twitter using NLP</h3><br>
-      <img src="./images/wordclouds_all.png" height = "150" style="margin:10px">
-      <ul>
-        <li> Goal: Understand the trends and the changing trends on Twitter throughout the year 2020 related to the COVID-19 pandemic; Understand, correlate and verify the findings with respect to the real-world news/data </li>
-        <li> Implemented a shell script for creating a command-line based scrapper for several 1000s of tweets from Twitter </li>
-        <li> Cleaned extracted tweets; Applied various analysis techniques like wordclouds, trend of a given word w.r.t. month; TextBlob and logistic regression for sentiment analysis </li>
-        <li> <a href="https://github.com/archity/covid-twitter-trends">GitHub repository</a> </li>
-      </ul>
-      <br></td>
-    </tr>
-    <tr>
-      <!-- Cell 3 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>Document Scanner and Summarizer using OpenCV and PyTextRank</h3> <br>
-      <img src="./images/doc_scanner_kindle.jpg" height = "150" style="margin:10px">
-      <ul>
-        <li> Goal: Create an image scanner and summarizer; Understand the pipeline behind mainstream doc scanner apps and apply Computer Vision and NLP to build a doc scanning prototype </li>
-        <li> Image processing pipeline utilizing OpenCV constructed; blurring, edge detection, warping, thresholding </li>
-        <li> Text summarization to generate a summary and key phrases from the scanned text </li>
-        <li> <a href="https://github.com/archity/doc-scanner">GitHub repository</a> </li>
-      </ul>
-      <br></td>
-      <!-- Cell 4 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>3D Graphics based Medieval Scene using OpenGL</h3>
-      <br>
-      <img src="./images/city_view_night.jpg" height = "150">
-      <ul>
-        <li> Goal: Create a 3D scene with medieval period as a theme, for the course 3D Graphics </li>
-        <li> Graphics processing pipeline involving modelling, rendering and animation implemented </li>
-        <li> Game-like interface created with 1st person POV </li>
-        <li> <a href="https://github.com/archity/3d-graphics-project">GitHub repository</a> </li>
-      </ul>
-      <br></td>
-    </tr> 
-  </tbody>
-</table>
+## B.Tech. Electronics & Communication
+
+<img src="./images/snu_logo.jpg" width = "180" align = "right" style="padding:10px">
+
+* Shiv Nadar University (SNU)  
+Greater Noida, India
+* Grad year: 2019
+* Grade point: 7.85/10
+* Thesis: Background Study and Hardware/Software Implementation of MIMO
 
 <br><br><br>
 
@@ -128,7 +83,7 @@ ul
 }
 .work td
 {
-  background: black;
+  background: none;
   border: 1px solid gray;
 
   width:500px;
@@ -183,39 +138,6 @@ More on experience [here](./Experience.html)
 
 <br><br><br>
 
-# Education
-
-## MSc. Computer Science (MoSIG)
-
-<img src="./images/ensimag_uga_logo.png" width = "200" align = "right" style="padding:10px">
-
-* Université Grenoble Alpes (UGA) - ENSIMAG  
-Grenoble, France
-* Specialization: Human and Digital World Interaction (HDWI)
-* Grad year: 2022
-* Grade point: 12/20
-* Courses taken in HDWI:
-  * Robotics
-  * Human in the Loop
-  * Augmented and Virtual Reality
-  * Computer Vision
-  * Natural Language Processing
-  * Machine Learning for Multimodal Data
-
-<br>
-
-## B.Tech. Electronics & Communication
-
-<img src="./images/snu_logo.jpg" width = "180" align = "right" style="padding:10px">
-
-* Shiv Nadar University (SNU)  
-Greater Noida, India
-* Grad year: 2019
-* Grade point: 7.85/10
-* Thesis: Background Study and Hardware/Software Implementation of MIMO
-
-<br><br><br>
-
 # Publications
 
 ## Research Paper
@@ -246,6 +168,94 @@ Greater Noida, India
 
 <br><br><br>
 
+<style>
+.project img
+{
+  border-radius:10%;
+}
+.project table
+{
+  border: none;
+}
+.project td
+{
+  background: none;
+  border: 1px solid gray;
+
+  width:500px;
+  overflow:hidden;
+  word-wrap:break-word;
+  vertical-align: top;
+}
+ul
+{
+  text-align: left;
+}
+</style>
+
+
+# Projects
+
+
+<table align=center class="project">
+  <tbody>
+    <tr style="vertical-align:top">
+      <!-- Cell 1 -->
+      <td style="text-align: center; vertical-align: middle;"><br>
+      <h3>Music Processing and Genre Classifier using DSP and Deep Learning</h3><br>
+      <img src="./images/audio_signal.jpeg" height = "150" style="margin:10px">
+      <ul>
+        <li> Goal: Understand audio as input data and identify its characteristics; Build a model to distinguish different genres of music using Digital Signal Processing and RNN/LSTM architectures </li>
+        <li> Performed basic audio data analysis like waveform, spectrogram, Extracting MFCCs </li>
+        <li> Implemented a music genre classifier based on dataset of GTZAN; Built dataset based on extracted MFCCs from audio files; Experimented with Basic Neural Network, CNN and RNN (LSTM) </li>
+        <li> Currently in process of predicting genre from Spotify songs </li>
+        <li> <a href="https://github.com/archity/music-processing">GitHub repository</a> </li>
+      </ul>
+      <br></td>
+      <!-- Cell 2 -->
+      <td style="text-align: center; vertical-align: middle;"><br>
+      <h3>Understanding COVID-19 Trends on Twitter using NLP</h3><br>
+      <img src="./images/wordclouds_all.png" height = "150" style="margin:10px">
+      <ul>
+        <li> Goal: Understand the trends and the changing trends on Twitter throughout the year 2020 related to the COVID-19 pandemic; Understand, correlate and verify the findings with respect to the real-world news/data </li>
+        <li> Implemented a shell script for creating a command-line based scrapper for several 1000s of tweets from Twitter </li>
+        <li> Cleaned extracted tweets; Applied various analysis techniques like wordclouds, trend of a given word w.r.t. month; TextBlob and logistic regression for sentiment analysis </li>
+        <li> <a href="https://github.com/archity/covid-twitter-trends">GitHub repository</a> </li>
+      </ul>
+      <br></td>
+    </tr>
+    <tr style="vertical-align:top">
+      <!-- Cell 3 -->
+      <td style="text-align: center; vertical-align: middle;"><br>
+      <h3>Document Scanner and Summarizer using OpenCV and PyTextRank</h3> <br>
+      <img src="./images/doc_scanner_kindle.jpg" height = "150" style="margin:10px">
+      <ul>
+        <li> Goal: Create an image scanner and summarizer; Understand the pipeline behind mainstream doc scanner apps and apply Computer Vision and NLP to build a doc scanning prototype </li>
+        <li> Image processing pipeline utilizing OpenCV constructed; blurring, edge detection, warping, thresholding </li>
+        <li> Text summarization to generate a summary and key phrases from the scanned text </li>
+        <li> <a href="https://github.com/archity/doc-scanner">GitHub repository</a> </li>
+      </ul>
+      <br></td>
+      <!-- Cell 4 -->
+      <td style="text-align: center; vertical-align: middle;"><br>
+      <h3>3D Graphics based Medieval Scene using OpenGL</h3>
+      <br>
+      <img src="./images/city_view_night.jpg" height = "150">
+      <ul>
+        <li> Goal: Create a 3D scene with medieval period as a theme, for the course 3D Graphics </li>
+        <li> Understood the basic graphics processing pipeline including rasterization, modelling, rendering and animation </li>
+        <li> Added several effects including multiple point lights based on day/night, fog, multi texturing based blend-map, keyframe + procedural animation, and sound effects, to name a few </li>
+        <li> Game-like interface created with 1st person POV </li>
+        <li> <a href="https://github.com/archity/3d-graphics-project">GitHub repository</a> </li>
+      </ul>
+      <br></td>
+    </tr> 
+  </tbody>
+</table>
+
+<br><br><br>
+
+
 # Artworks
 
 Some of my favourite drawings. More can be found on my [Instagram](https://www.instagram.com/architydraws/) drawing acccount.
@@ -259,8 +269,8 @@ Some of my favourite drawings. More can be found on my [Instagram](https://www.i
   }
   .art td
   {
-    background: rgb(0, 0, 0);
-    border: none;
+    background: none;
+    border: 1px solid gray;
   }
 </style>
 
@@ -293,6 +303,9 @@ Some of my favourite drawings. More can be found on my [Instagram](https://www.i
 
 ## Featured artwork
 
-A timelapse video portrait I made of Steve Jobs was [featured](https://fb.watch/2xXxcg3SXF/) by my university's drawing club.
+A timelapse video portrait I made of Steve Jobs was featured by my university's drawing club.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FKalakritiTheCreativeSociety%2Fvideos%2F1842074942739247%2F&show_text=true&width=560" width="400" height="200"  style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<a href="https://fb.watch/2xXxcg3SXF/" target="_blank">
+<img src="./images/kalakriti_steve_jobs_fb_thumbnail.png" height = "300" align="center">
+</a>
+
