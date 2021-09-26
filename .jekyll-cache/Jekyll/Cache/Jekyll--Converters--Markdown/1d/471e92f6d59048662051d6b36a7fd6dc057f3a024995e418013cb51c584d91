@@ -1,4 +1,5 @@
-I"&	<h1 id="drawings">Drawings</h1>
+I"x
+<h1 id="artworks">Artworks</h1>
 
 <p>Some of my favourite drawings. More can be found on my <a href="https://www.instagram.com/architydraws/">Instagram</a> drawing acccount.</p>
 
@@ -7,39 +8,43 @@
 <style>
   table
   {
-    border: none
+    border: none;
   }
   td
   {
-    background: black
+    background: black;
+    border: none;
   }
 </style>
 
 <table border="0px" rules="none">
   <tbody>
     <tr>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/greenleaf_procreate.jpg" width="200" />
+      <br /><br /><br /></td>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LaurenCohanPortrait.jpg" width="200" />
       <br /><a href="./images/Drawings/LaurenCohan_1minute_Black_Audio_ZoomEffect.mp4" style="font-size: 10px">Timelapse video</a><br />
       <p style="font-size: 9px">
       (Music credits: Black by <a href="https://youtu.be/xUCxxp1IZdY" style="font-size: 9px">Kari Kimmel</a>)</p></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/GirlQuickSketch.jpg" width="200" />
-      <br /><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/dragon_procreate.jpg" width="200" />
+      <br /><br /><br />
+      </td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LindseyStirlingPortrait.jpg" width="200" />
       <br /><a href="./images/Drawings/LindseyStirling_15sec_NoFlicker.mp4" style="font-size: 10px">Timelapse video</a><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/daftpunk_procreate.jpg" width="200" />
+      <br /><br /><br /></td>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/TheNightKingPortrait.jpg" width="200" />
       <br /><a href="./images/Drawings/TNKWithAudio_Cropped.mp4" style="font-size: 10px">Timelapse video</a><br />
       <p style="font-size: 9px">(Music credits: The Night King by <a href="https://youtu.be/k1frgt0D_f4" style="font-size: 9px">Ramin Djawadi</a>)</p></td>
-    </tr>
-    
-    
+    </tr> 
   </tbody>
 </table>
 
 <p><br /><br /></p>
 
-<h2 id="featured-artwork">Featured artwork</h2>
+<h1 id="featured-artwork">Featured artwork</h1>
 
 <p>A timelapse video portrait I made of Steve Jobs was <a href="https://fb.watch/2xXxcg3SXF/">featured</a> by my university’s drawing club.</p>
 
