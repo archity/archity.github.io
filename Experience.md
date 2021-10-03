@@ -11,7 +11,6 @@ layout: default
 }
 .work td
 {
-  background: black;
   border: 1px solid gray;
 
   width:500px;
@@ -80,7 +79,7 @@ layout: default
           <li>Implemented Transmitter as well as Receiver, both incorporating various blocks like QPSK Modulator/ Demodulator, Filter, Ramanujan Phasor Estimation to name a few</li>
           <li>Translated the model in Simulink and interfaced with USRP board (SDR, Software-Defined Radio based)</li>
           <li>Studied about possible data encoding techniques like Arithmetic Coding, Huffman Coding; Antenna Switching and Spatial Modulation</li>
-          <li>Conducted a tutorial session on behalf of Prof. Vijay K. Chakka for introducing MIMO to a junior undergrad batch<</li><br><br>
+          <li>Conducted a tutorial session on behalf of Prof. Vijay K. Chakka for introducing MIMO to a junior undergrad batch</li><br><br>
         </ul>
       </td>
     </tr>
