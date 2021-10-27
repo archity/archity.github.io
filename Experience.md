@@ -30,6 +30,19 @@ layout: default
     <tr>
       <!-- <td></td> -->
       <td>
+        <h2>Open-Source Researcher, The Sound of AI (Feb'21 - present)</h2>
+        <h3>NLP Researcher</h3>
+        <img src="./images/tsoai_ppt_wc.jpg">
+        <ul>
+          <li> Goal: Part of an open-source research community for the development of a voice-controlled neural network-based synthesizer for generating musical sounds </li>
+          <li> Named-entity Recognition (NER) of musical instruments and qualities using spaCy</li>
+          <li>Currently underway writing a research paper for a journal</li><br><br>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <!-- <td></td> -->
+      <td>
         <h2>ML Technical Content Writer, YData (Aug'21 - present)</h2>
         <!-- <h3>NLP Researcher</h3> -->
         <img src="./images/ydata_logo.png">
@@ -38,19 +51,6 @@ layout: default
           <li>Contributed to YData's <a href="https://github.com/ydataai/ydata-synthetic">repository</a> for small bug fixes</li>
           <li>Published 2 articles regarding tabular and timeseries synthetic data generation on Towards Data Science</li>
           <br><br>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <!-- <td></td> -->
-      <td>
-        <h2>Open-Source Researcher, The Sound of AI (Feb'21 - present)</h2>
-        <h3>NLP Researcher</h3>
-        <img src="./images/tsoai_ppt_wc.jpg">
-        <ul>
-          <li> Goal: Part of an open-source research community for the development of a voice-controlled neural network-based synthesizer for generating musical sounds </li>
-          <li> Named-entity Recognition (NER) of musical instruments and qualities using spaCy</li>
-          <li>Currently underway writing a research paper for a journal</li><br><br>
         </ul>
       </td>
     </tr>
