@@ -1,8 +1,10 @@
-I"�1<style>
+I"�2<style>
 .arcimg
 {
   padding: 2px;
   border-radius:50%;
+  max-width: 100%;
+  height: auto;
 }
 </style>
 
@@ -17,9 +19,9 @@
 
 <p>Hi there!</p>
 
-<p>I’m a master’s student currently pursing my MSc. in Computer Science from Université Grenoble Alpes in Grenoble, France.</p>
+<p>I’m a master’s student currently pursing my MSc. in Computer Science from Université Grenoble Alpes specializing in Human and Digital World Interaction (HDWI).</p>
 
-<p>My main fields of interests broadly are Signal Processing, Embededd Systems and AI.</p>
+<p>My main fields of interests broadly are Machine Learning, Embedded Systems, and Signal Processing..</p>
 
 <p>Specific fields of interests:</p>
 <ul>
@@ -34,51 +36,83 @@
 
 <ul>
   <li><a href="#education">Education</a></li>
-  <li><a href="#work-experience">Work/Research Experience</a></li>
-  <li><a href="#publications">Publications</a></li>
+  <li><a href="#work-experience">Work Experience</a></li>
   <li><a href="#projects">Projects</a></li>
-  <li><a href="#artworks">Artworks</a></li>
-</ul>
-
-<p><br /><br /><br /></p>
-
-<h1 id="education">Education</h1>
-
-<h2 id="msc-computer-science-mosig">MSc. Computer Science (MoSIG)</h2>
-
-<p><img src="./images/ensimag_uga_logo.png" width="200" align="right" style="padding:10px" /></p>
-
-<ul>
-  <li>Université Grenoble Alpes (UGA) - ENSIMAG<br />
-Grenoble, France</li>
-  <li>Specialization: Human and Digital World Interaction (HDWI)</li>
-  <li>Grad year: 2022</li>
-  <li>Grade point: 12/20</li>
-  <li>Courses taken in HDWI:
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#artworks">Artworks</a>
     <ul>
-      <li>Robotics</li>
-      <li>Human in the Loop</li>
-      <li>Augmented and Virtual Reality</li>
-      <li>Computer Vision</li>
-      <li>Natural Language Processing</li>
-      <li>Machine Learning for Multimodal Data</li>
+      <li><a href="#featured-artwork">Featured artwork</a></li>
     </ul>
   </li>
 </ul>
 
-<p><br /></p>
+<p><br /><br /><br /></p>
 
-<h2 id="btech-electronics--communication">B.Tech. Electronics &amp; Communication</h2>
+<style>
+.edu table
+{
+  border: none;
+}
 
-<p><img src="./images/snu_logo.jpg" width="180" align="right" style="padding:10px" /></p>
+.edu tr
+{
+  border: none;
+}
 
-<ul>
-  <li>Shiv Nadar University (SNU)<br />
-Greater Noida, India</li>
-  <li>Grad year: 2019</li>
-  <li>Grade point: 7.85/10</li>
-  <li>Thesis: Background Study and Hardware/Software Implementation of MIMO</li>
-</ul>
+.edu td
+{
+  background: none;
+  border: 1px solid gray;
+
+  width:500px;
+  overflow:hidden;
+  word-wrap:break-word;
+  vertical-align: top;
+}
+.edu img
+{
+  width: 180px;
+  padding: 20px;
+}
+</style>
+
+<h1 id="education">Education</h1>
+
+<table align="center" class="edu" style="background-color: rgb(220, 255, 213)">
+  <tbody>
+    <tr>
+      <td>
+      <h2> MSc. Computer Science (MoSIG)</h2>
+      <img src="./images/ensimag_uga_logo.png" width="200" align="right" style="padding:10px" />
+      <ul>
+        <li> Université Grenoble Alpes (UGA) - ENSIMAG </li>
+        <li>Grenoble, France</li>
+        <li>Specialization: Human and Digital World Interaction (HDWI)</li>
+        <li>Grad year: 2022</li>
+        <li>Grade point: 12/20</li>
+        <li>Courses taken in HDWI:</li>
+        <ul>
+          <li>Robotics</li>
+          <li>Human in the Loop</li>
+          <li>Augmented and Virtual Reality</li>
+          <li>Computer Vision</li>
+          <li>Natural Language Processing</li>
+          <li>Machine Learning for Multimodal Data</li>
+        </ul>
+      </ul>
+      <br />
+      <h2>B.Tech. Electronics &amp; Communication</h2>
+      <img src="./images/snu_logo.jpg" width="180" align="right" style="padding:10px" />
+      <ul>
+        <li>Shiv Nadar University (SNU)</li>  
+        <li>Greater Noida, India</li>
+        <li>Grad year: 2019</li>
+        <li>Thesis: Background Study and Hardware/Software Implementation of MIMO</li>
+      </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p><br /><br /><br /></p>
 
@@ -86,7 +120,14 @@ Greater Noida, India</li>
 .work table
 {
   border: none;
+  background-color: #bde9ba;
 }
+
+tr
+{
+  border: none;
+}
+
 .work td
 {
   background: none;
@@ -95,44 +136,32 @@ Greater Noida, India</li>
   width:500px;
   overflow:hidden;
   word-wrap:break-word;
+  vertical-align: top;
 }
 .work img
 {
-  width: 120px;
+  height: 120px;
   padding: 25px;
-  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>
 
 <h1 id="work-experience">Work Experience</h1>
 
-<table align="center" class="work">
+<table align="center" class="work" style="background-color: rgb(255, 255, 232)">
   <tbody>
     <tr>
-      <!-- <td></td> -->
       <td>
-        <h2>ML Technical Content Writer, YData (Aug'21 - present)</h2>
-        <!-- <h3>NLP Researcher</h3> -->
-        <img src="./images/ydata_logo.png" />
-        <ul>
-          <li>Goal: Perform a study on GANs and research on artificial data generation </li>
-          <li>Contributed to YData's <a href="https://github.com/ydataai/ydata-synthetic">repository</a> for small bug fixes</li>
-          <li>Published 2 articles regarding tabular and timeseries synthetic data generation on Towards Data Science</li>
-          <br /><br />
-        </ul>
+        <h2><center>Open-Source NLP Researcher</center></h2>
+        <h3><center>The Sound of AI</center></h3>
+        <img src="./images/guitar_acoustic_720p.jpg" />
       </td>
-    </tr>
-    <tr>
-      <!-- <td></td> -->
       <td>
-        <h2>Open-Source Researcher, The Sound of AI (Feb'21 - present)</h2>
-        <h3>NLP Researcher</h3>
-        <img src="./images/tsoai_ppt_wc.jpg" />
-        <ul>
-          <li> Goal: Part of an open-source research community for the development of a voice-controlled neural network-based synthesizer for generating musical sounds </li>
-          <li> Named-entity Recognition (NER) of musical instruments and qualities using spaCy</li>
-          <li>Currently underway writing a research paper for a journal</li><br /><br />
-        </ul>
+        <h2><center>ML Technical Content Writer</center></h2>
+        <h3><center>YData</center></h3>
+        <img src="./images/ydata_logo.png" />
       </td>
     </tr>
   </tbody>
@@ -141,36 +170,6 @@ Greater Noida, India</li>
 <p><br /></p>
 
 <p>More on experience <a href="./Experience.html">here</a></p>
-
-<p><br /><br /><br /></p>
-
-<h1 id="publications">Publications</h1>
-
-<h2 id="research-paper">Research Paper</h2>
-
-<ul>
-  <li><i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”</i></li>
-
-  <li><i>“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i></li>
-  <ul>
-      <li> Two joint research papers expected to be published at a conference </li>
-      <li> Result of work done in internship at LIRMM under Prof. Giorgio Di Natale </li>
-      <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
-  </ul>
-</ul>
-
-<h2 id="medium-articles">Medium Articles</h2>
-<h3 id="towards-data-science">(Towards Data Science)</h3>
-
-<ul>
-<li><a href="https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218"><i>"Generating/Expanding your datasets with synthetic data"</i></a></li>
-<li><a href="https://towardsdatascience.com/modeling-and-generating-time-series-data-using-timegan-29c00804f54d"><i>"Modeling and Generating Time-Series Data using TimeGAN"</i></a></li>
-<ul>
-    <li> Both articles featured as a   post by TDS' official LinkedIn page</li>
-    <li> <a href="https://www.linkedin.com/posts/towards-data-science_generatingexpanding-your-datasets-with-synthetic-activity-6830942570487578624-cbWN">LinkedIn post 1 </a> </li>
-    <li> <a href="https://www.linkedin.com/posts/towards-data-science_modeling-and-generating-time-series-data-activity-6842039187789754368-rUPi">LinkedIn post 2 </a> </li>
-</ul>
-</ul>
 
 <p><br /><br /><br /></p>
 
@@ -201,7 +200,7 @@ ul
 
 <h1 id="projects">Projects</h1>
 
-<table align="center" class="project">
+<table align="center" class="project" style="background-color: rgb(226, 226, 255)">
   <tbody>
     <tr style="vertical-align:top">
       <!-- Cell 1 -->
@@ -215,9 +214,9 @@ ul
         <li> Currently in process of predicting genre from Spotify songs </li>
         <li> <a href="https://github.com/archity/music-processing">GitHub repository</a> </li>
       </ul>
-      <br /></td>
+      </td>
       <!-- Cell 2 -->
-      <td style="text-align: center; vertical-align: middle;"><br />
+      <td style="text-align: center; vertical-align: middle;">
       <h3>Understanding COVID-19 Trends on Twitter using NLP</h3><br />
       <img src="./images/wordclouds_all.png" height="150" style="margin:10px" />
       <ul>
@@ -226,7 +225,7 @@ ul
         <li> Cleaned extracted tweets; Applied various analysis techniques like wordclouds, trend of a given word w.r.t. month; TextBlob and logistic regression for sentiment analysis </li>
         <li> <a href="https://github.com/archity/covid-twitter-trends">GitHub repository</a> </li>
       </ul>
-      <br /></td>
+      </td>
     </tr>
     <tr style="vertical-align:top">
       <!-- Cell 3 -->
@@ -239,7 +238,7 @@ ul
         <li> Text summarization to generate a summary and key phrases from the scanned text </li>
         <li> <a href="https://github.com/archity/doc-scanner">GitHub repository</a> </li>
       </ul>
-      <br /></td>
+      </td>
       <!-- Cell 4 -->
       <td style="text-align: center; vertical-align: middle;"><br />
       <h3>3D Graphics based Medieval Scene using OpenGL</h3>
@@ -252,8 +251,43 @@ ul
         <li> Game-like interface created with 1st person POV </li>
         <li> <a href="https://github.com/archity/3d-graphics-project">GitHub repository</a> </li>
       </ul>
-      <br /></td>
+      </td>
     </tr> 
+  </tbody>
+</table>
+
+<p><br /><br /><br /></p>
+
+<h1 id="publications">Publications</h1>
+
+<table align="center" class="edu" style="background-color: rgb(255, 226, 226)">
+  <tbody>
+    <tr>
+      <td>
+        <h2>Research Paper</h2>
+        <ul>
+          <li><i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”</i></li>
+          <li><i>“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i></li>
+          <ul>
+              <li> Two joint research papers expected to be published at a conference </li>
+              <li> Result of work done in internship at LIRMM under Prof. Giorgio Di Natale </li>
+              <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
+          </ul>
+        </ul>
+        <br />
+        <h2>Medium Articles</h2>
+        <b>Towards Data Science</b>
+        <ul>
+        <li><a href="https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218"><i>"Generating/Expanding your datasets with synthetic data"</i></a></li>
+        <li><a href="https://towardsdatascience.com/modeling-and-generating-time-series-data-using-timegan-29c00804f54d"><i>"Modeling and Generating Time-Series Data using TimeGAN"</i></a></li>
+        <ul>
+            <li> Both articles featured as a   post by TDS' official LinkedIn page</li>
+            <li> <a href="https://www.linkedin.com/posts/towards-data-science_generatingexpanding-your-datasets-with-synthetic-activity-6830942570487578624-cbWN">LinkedIn post 1 </a> </li>
+            <li> <a href="https://www.linkedin.com/posts/towards-data-science_modeling-and-generating-time-series-data-activity-6842039187789754368-rUPi">LinkedIn post 2 </a> </li>
+        </ul>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -277,7 +311,7 @@ ul
   }
 </style>
 
-<table border="0px" rules="none" class="art">
+<table border="0px" rules="none" class="art" style="background-color: rgb(213, 255, 249)">
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/greenleaf_procreate.jpg" width="200" />

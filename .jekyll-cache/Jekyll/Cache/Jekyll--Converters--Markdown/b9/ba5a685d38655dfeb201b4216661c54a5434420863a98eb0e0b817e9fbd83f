@@ -1,0 +1,312 @@
+I"�.<style>
+.arcimg
+{
+  padding: 2px;
+  border-radius:50%;
+}
+</style>
+
+<p><a href="mailto:archityadav97@gmail.com"><img src="images/gmail.svg" width="30px" /></a>
+<a href="mailto:archit.yadav@etu.univ-grenoble-alpes.fr"><img src="images/uga_146px.png" width="30px" /></a>
+<a href="https://github.com/archity/"><img src="images/github.svg" width="30px" /></a>
+<a href="https://www.linkedin.com/in/archit-yadav-95482b156/"><img src="images/linkedin.svg" width="30px" /></a>
+<a href="https://medium.com/@archityadav97"><img src="images/medium.png" width="30px" /></a>
+<a href="https://open.spotify.com/user/ht3095oj4tv2bn2j64ppw87mm?si=02be29f02813407b"><img src="images/spotify.svg" width="30px" /></a></p>
+
+<p><img src="./images/archityadav_1000px.jpg" class="arcimg" align="right" style="margin:5px" width="180" /></p>
+
+<p>Hi there!</p>
+
+<p>I’m a master’s student currently pursing my MSc. in Computer Science from Université Grenoble Alpes specializing in Human and Digital World Interaction (HDWI).</p>
+
+<p>My main fields of interests broadly are Machine Learning, Embedded Systems, and Signal Processing..</p>
+
+<p>Specific fields of interests:</p>
+<ul>
+  <li>📜 Natural Language Processing (NLP),</li>
+  <li>🎵 Audio-based AI, or Music Information Retrieval (MIR).</li>
+  <li>📡 ML-based Signal Processing</li>
+</ul>
+
+<p>In my free time, I enjoy drawing/sketching. Reading is another hobby of mine since a long time. Here are some of my <a href="#artworks">artworks</a>, and my current <a href="./reads.html">reading</a> list.</p>
+
+<p>Organisation of rest of this website as follows:</p>
+
+<ul>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#work-experience">Work/Research Experience</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#projects">Projects</a></li>
+  <li><a href="#artworks">Artworks</a></li>
+</ul>
+
+<p><br /><br /><br /></p>
+
+<h1 id="education">Education</h1>
+
+<h2 id="msc-computer-science-mosig">MSc. Computer Science (MoSIG)</h2>
+
+<p><img src="./images/ensimag_uga_logo.png" width="200" align="right" style="padding:10px" /></p>
+
+<ul>
+  <li>Université Grenoble Alpes (UGA) - ENSIMAG<br />
+Grenoble, France</li>
+  <li>Specialization: Human and Digital World Interaction (HDWI)</li>
+  <li>Grad year: 2022</li>
+  <li>Grade point: 12/20</li>
+  <li>Courses taken in HDWI:
+    <ul>
+      <li>Robotics</li>
+      <li>Human in the Loop</li>
+      <li>Augmented and Virtual Reality</li>
+      <li>Computer Vision</li>
+      <li>Natural Language Processing</li>
+      <li>Machine Learning for Multimodal Data</li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="btech-electronics--communication">B.Tech. Electronics &amp; Communication</h2>
+
+<p><img src="./images/snu_logo.jpg" width="180" align="right" style="padding:10px" /></p>
+
+<ul>
+  <li>Shiv Nadar University (SNU)<br />
+Greater Noida, India</li>
+  <li>Grad year: 2019</li>
+  <li>Grade point: 7.85/10</li>
+  <li>Thesis: Background Study and Hardware/Software Implementation of MIMO</li>
+</ul>
+
+<p><br /><br /><br /></p>
+
+<style>
+.work table
+{
+  border: none;
+  background-color: #bde9ba;
+
+  /* border-collapse: collapse; */
+}
+
+tr
+{
+  border: none;
+}
+
+.work td
+{
+  background: none;
+  border: 1px solid gray;
+
+  width:500px;
+  overflow:hidden;
+  word-wrap:break-word;
+  vertical-align: top;
+}
+.work img
+{
+  height: 120px;
+  padding: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<h1 id="work-experience">Work Experience</h1>
+
+<table align="center" class="work">
+  <tbody>
+    <tr>
+      <td>
+        <h2>Open-Source NLP Researcher</h2>
+        <h3>The Sound of AI</h3>
+        <img src="./images/guitar_acoustic_720p.jpg" />
+      </td>
+      <td>
+        <h2>ML Technical Content Writer</h2>
+        <h3>YData</h3>
+        <img src="./images/ydata_logo.png" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>More on experience <a href="./Experience.html">here</a></p>
+
+<p><br /><br /><br /></p>
+
+<h1 id="publications">Publications</h1>
+
+<h2 id="research-paper">Research Paper</h2>
+
+<ul>
+  <li><i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”</i></li>
+
+  <li><i>“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i></li>
+  <ul>
+      <li> Two joint research papers expected to be published at a conference </li>
+      <li> Result of work done in internship at LIRMM under Prof. Giorgio Di Natale </li>
+      <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
+  </ul>
+</ul>
+
+<h2 id="medium-articles">Medium Articles</h2>
+<h3 id="towards-data-science">(Towards Data Science)</h3>
+
+<ul>
+<li><a href="https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218"><i>"Generating/Expanding your datasets with synthetic data"</i></a></li>
+<li><a href="https://towardsdatascience.com/modeling-and-generating-time-series-data-using-timegan-29c00804f54d"><i>"Modeling and Generating Time-Series Data using TimeGAN"</i></a></li>
+<ul>
+    <li> Both articles featured as a   post by TDS' official LinkedIn page</li>
+    <li> <a href="https://www.linkedin.com/posts/towards-data-science_generatingexpanding-your-datasets-with-synthetic-activity-6830942570487578624-cbWN">LinkedIn post 1 </a> </li>
+    <li> <a href="https://www.linkedin.com/posts/towards-data-science_modeling-and-generating-time-series-data-activity-6842039187789754368-rUPi">LinkedIn post 2 </a> </li>
+</ul>
+</ul>
+
+<p><br /><br /><br /></p>
+
+<style>
+.project img
+{
+  border-radius:10%;
+}
+.project table
+{
+  border: none;
+}
+.project td
+{
+  background: none;
+  border: 1px solid gray;
+
+  width:500px;
+  overflow:hidden;
+  word-wrap:break-word;
+  vertical-align: top;
+}
+ul
+{
+  text-align: left;
+}
+</style>
+
+<h1 id="projects">Projects</h1>
+
+<table align="center" class="project">
+  <tbody>
+    <tr style="vertical-align:top">
+      <!-- Cell 1 -->
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>Music Processing and Genre Classifier using DSP and Deep Learning</h3><br />
+      <img src="./images/audio_signal.jpeg" height="150" style="margin:10px" />
+      <ul>
+        <li> Goal: Understand audio as input data and identify its characteristics; Build a model to distinguish different genres of music using Digital Signal Processing and RNN/LSTM architectures </li>
+        <li> Performed basic audio data analysis like waveform, spectrogram, Extracting MFCCs </li>
+        <li> Implemented a music genre classifier based on dataset of GTZAN; Built dataset based on extracted MFCCs from audio files; Experimented with Basic Neural Network, CNN and RNN (LSTM) </li>
+        <li> Currently in process of predicting genre from Spotify songs </li>
+        <li> <a href="https://github.com/archity/music-processing">GitHub repository</a> </li>
+      </ul>
+      <br /></td>
+      <!-- Cell 2 -->
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>Understanding COVID-19 Trends on Twitter using NLP</h3><br />
+      <img src="./images/wordclouds_all.png" height="150" style="margin:10px" />
+      <ul>
+        <li> Goal: Understand the trends and the changing trends on Twitter throughout the year 2020 related to the COVID-19 pandemic; Understand, correlate and verify the findings with respect to the real-world news/data </li>
+        <li> Implemented a shell script for creating a command-line based scrapper for several 1000s of tweets from Twitter </li>
+        <li> Cleaned extracted tweets; Applied various analysis techniques like wordclouds, trend of a given word w.r.t. month; TextBlob and logistic regression for sentiment analysis </li>
+        <li> <a href="https://github.com/archity/covid-twitter-trends">GitHub repository</a> </li>
+      </ul>
+      <br /></td>
+    </tr>
+    <tr style="vertical-align:top">
+      <!-- Cell 3 -->
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>Document Scanner and Summarizer using OpenCV and PyTextRank</h3> <br />
+      <img src="./images/doc_scanner_kindle.jpg" height="150" style="margin:10px" />
+      <ul>
+        <li> Goal: Create an image scanner and summarizer; Understand the pipeline behind mainstream doc scanner apps and apply Computer Vision and NLP to build a doc scanning prototype </li>
+        <li> Image processing pipeline utilizing OpenCV constructed; blurring, edge detection, warping, thresholding </li>
+        <li> Text summarization to generate a summary and key phrases from the scanned text </li>
+        <li> <a href="https://github.com/archity/doc-scanner">GitHub repository</a> </li>
+      </ul>
+      <br /></td>
+      <!-- Cell 4 -->
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>3D Graphics based Medieval Scene using OpenGL</h3>
+      <br />
+      <img src="./images/city_view_night.jpg" height="150" />
+      <ul>
+        <li> Goal: Create a 3D scene with medieval period as a theme, for the course 3D Graphics </li>
+        <li> Understood the basic graphics processing pipeline including rasterization, modelling, rendering and animation </li>
+        <li> Added several effects including multiple point lights based on day/night, fog, multi texturing based blend-map, keyframe + procedural animation, and sound effects, to name a few </li>
+        <li> Game-like interface created with 1st person POV </li>
+        <li> <a href="https://github.com/archity/3d-graphics-project">GitHub repository</a> </li>
+      </ul>
+      <br /></td>
+    </tr> 
+  </tbody>
+</table>
+
+<p><br /><br /><br /></p>
+
+<h1 id="artworks">Artworks</h1>
+
+<p>Some of my favourite drawings. More can be found on my <a href="https://www.instagram.com/architydraws/">Instagram</a> drawing acccount.</p>
+
+<p><br /></p>
+
+<style>
+  .art table
+  {
+    border: none;
+  }
+  .art td
+  {
+    background: none;
+    border: 1px solid gray;
+  }
+</style>
+
+<table border="0px" rules="none" class="art">
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/greenleaf_procreate.jpg" width="200" />
+      <br /><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LaurenCohanPortrait.jpg" width="200" />
+      <br /><a href="./images/Drawings/LaurenCohan_1minute_Black_Audio_ZoomEffect.mp4" style="font-size: 10px">Timelapse video</a><br />
+      <p style="font-size: 9px">
+      (Music credits: Black by <a href="https://youtu.be/xUCxxp1IZdY" style="font-size: 9px">Kari Kimmel</a>)</p></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/dragon_procreate.jpg" width="200" />
+      <br /><br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LindseyStirlingPortrait.jpg" width="200" />
+      <br /><a href="./images/Drawings/LindseyStirling_15sec_NoFlicker.mp4" style="font-size: 10px">Timelapse video</a><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/daftpunk_procreate.jpg" width="200" />
+      <br /><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/TheNightKingPortrait.jpg" width="200" />
+      <br /><a href="./images/Drawings/TNKWithAudio_Cropped.mp4" style="font-size: 10px">Timelapse video</a><br />
+      <p style="font-size: 9px">(Music credits: The Night King by <a href="https://youtu.be/k1frgt0D_f4" style="font-size: 9px">Ramin Djawadi</a>)</p></td>
+    </tr> 
+  </tbody>
+</table>
+
+<p><br /><br /></p>
+
+<h2 id="featured-artwork">Featured artwork</h2>
+
+<p>A timelapse video portrait I made of Steve Jobs was featured by my university’s drawing club.</p>
+
+<p><a href="https://fb.watch/2xXxcg3SXF/" target="_blank">
+<img src="./images/kalakriti_steve_jobs_fb_thumbnail.png" height="300" align="center" />
+</a></p>
+
+:ET

@@ -1,8 +1,4 @@
----
-layout: default
----
-
-<style>
+I"~2<style>
 .arcimg
 {
   padding: 2px;
@@ -10,46 +6,47 @@ layout: default
   max-width: 100%;
   height: auto;
 }
-.iconimg
-{
-  padding: 4px;
-  width: 40px;
-}
 </style>
 
-<a href="mailto:archityadav97@gmail.com"><img src="images/gmail.svg" class="iconimg" width = 50px></a>
-<a href="mailto:archit.yadav@etu.univ-grenoble-alpes.fr"><img src="images/uga_146px.png" class="iconimg" width = 50px></a>
-<a href="https://github.com/archity/"><img src="images/github.svg" class="iconimg" width = 50px></a>
-<a href="https://www.linkedin.com/in/archit-yadav-95482b156/"><img src="images/linkedin.svg" class="iconimg" width = 50px></a>
-<a href="https://medium.com/@archityadav97"><img src="images/medium.png" class="iconimg" width = 50px></a>
-<a href="https://open.spotify.com/user/ht3095oj4tv2bn2j64ppw87mm?si=02be29f02813407b"><img src="images/spotify.svg" class="iconimg" width = 50px></a>
+<p><a href="mailto:archityadav97@gmail.com"><img src="images/gmail.svg" width="30px" /></a>
+<a href="mailto:archit.yadav@etu.univ-grenoble-alpes.fr"><img src="images/uga_146px.png" width="30px" /></a>
+<a href="https://github.com/archity/"><img src="images/github.svg" width="30px" /></a>
+<a href="https://www.linkedin.com/in/archit-yadav-95482b156/"><img src="images/linkedin.svg" width="30px" /></a>
+<a href="https://medium.com/@archityadav97"><img src="images/medium.png" width="30px" /></a>
+<a href="https://open.spotify.com/user/ht3095oj4tv2bn2j64ppw87mm?si=02be29f02813407b"><img src="images/spotify.svg" width="30px" /></a></p>
 
+<p><img src="./images/archityadav_1000px.jpg" class="arcimg" align="right" style="margin:5px" width="180" /></p>
 
-<img src="./images/archityadav_1000px.jpg" class="arcimg" align="right" style="margin:5px" width = "180">
+<p>Hi there!</p>
 
-Hi there!
+<p>I’m a master’s student currently pursing my MSc. in Computer Science from Université Grenoble Alpes specializing in Human and Digital World Interaction (HDWI).</p>
 
-I'm a master's student currently pursing my MSc. in Computer Science from Université Grenoble Alpes specializing in Human and Digital World Interaction (HDWI).
+<p>My main fields of interests broadly are Machine Learning, Embedded Systems, and Signal Processing..</p>
 
-My main fields of interests broadly are Machine Learning, Embedded Systems, and Signal Processing..
+<p>Specific fields of interests:</p>
+<ul>
+  <li>📜 Natural Language Processing (NLP),</li>
+  <li>🎵 Audio-based AI, or Music Information Retrieval (MIR).</li>
+  <li>📡 ML-based Signal Processing</li>
+</ul>
 
-Specific fields of interests:
-* 📜 Natural Language Processing (NLP),
-* 🎵 Audio-based AI, or Music Information Retrieval (MIR).
-* 📡 ML-based Signal Processing
+<p>In my free time, I enjoy drawing/sketching. Reading is another hobby of mine since a long time. Here are some of my <a href="#artworks">artworks</a>, and my current <a href="./reads.html">reading</a> list.</p>
 
-In my free time, I enjoy drawing/sketching. Reading is another hobby of mine since a long time. Here are some of my [artworks](#artworks), and my current [reading](./reads.html) list.
+<p>Organisation of rest of this website as follows:</p>
 
-Organisation of rest of this website as follows:
+<ul>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#work-experience">Work Experience</a></li>
+  <li><a href="#projects">Projects</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#artworks">Artworks</a>
+    <ul>
+      <li><a href="#featured-artwork">Featured artwork</a></li>
+    </ul>
+  </li>
+</ul>
 
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Publications](#publications)
-- [Artworks](#artworks)
-
-<br><br><br>
-
+<p><br /><br /><br /></p>
 
 <style>
 .edu table
@@ -79,14 +76,14 @@ Organisation of rest of this website as follows:
 }
 </style>
 
-# Education
+<h1 id="education">Education</h1>
 
-<table align=center class="edu" style="background-color: rgb(220, 255, 213)">
+<table align="center" class="edu" style="background-color: rgb(220, 255, 213)">
   <tbody>
     <tr>
       <td>
       <h2> MSc. Computer Science (MoSIG)</h2>
-      <img src="./images/ensimag_uga_logo.png" width = "200" align = "right" style="padding:10px">
+      <img src="./images/ensimag_uga_logo.png" width="200" align="right" style="padding:10px" />
       <ul>
         <li> Université Grenoble Alpes (UGA) - ENSIMAG </li>
         <li>Grenoble, France</li>
@@ -103,9 +100,9 @@ Organisation of rest of this website as follows:
           <li>Machine Learning for Multimodal Data</li>
         </ul>
       </ul>
-      <br>
-      <h2>B.Tech. Electronics & Communication</h2>
-      <img src="./images/snu_logo.jpg" width = "180" align = "right" style="padding:10px">
+      <br />
+      <h2>B.Tech. Electronics &amp; Communication</h2>
+      <img src="./images/snu_logo.jpg" width="180" align="right" style="padding:10px" />
       <ul>
         <li>Shiv Nadar University (SNU)</li>  
         <li>Greater Noida, India</li>
@@ -117,9 +114,7 @@ Organisation of rest of this website as follows:
   </tbody>
 </table>
 
-
-
-<br><br><br>
+<p><br /><br /><br /></p>
 
 <style>
 .work table
@@ -153,30 +148,30 @@ tr
 }
 </style>
 
-# Work Experience
+<h1 id="work-experience">Work Experience</h1>
 
-<table align=center class="work" style="background-color: rgb(255, 255, 232)">
+<table align="center" class="work" style="background-color: rgb(255, 255, 232)">
   <tbody>
     <tr>
       <td>
         <h2><center>Open-Source NLP Researcher</center></h2>
         <h3><center>The Sound of AI</center></h3>
-        <img src="./images/guitar_acoustic_720p.jpg">
+        <img src="./images/guitar_acoustic_720p.jpg" />
       </td>
       <td>
         <h2><center>ML Technical Content Writer</center></h2>
         <h3><center>YData</center></h3>
-        <img src="./images/ydata_logo.png">
+        <img src="./images/ydata_logo.png" />
       </td>
     </tr>
   </tbody>
 </table>
 
-<br>
+<p><br /></p>
 
-More on experience [here](./Experience.html)
+<p>More on experience <a href="./Experience.html">here</a></p>
 
-<br><br><br>
+<p><br /><br /><br /></p>
 
 <style>
 .project img
@@ -204,17 +199,15 @@ ul
 }
 </style>
 
+<h1 id="projects">Projects</h1>
 
-# Projects
-
-
-<table align=center class="project" style="background-color: rgb(226, 226, 255)">
+<table align="center" class="project" style="background-color: rgb(226, 226, 255)">
   <tbody>
     <tr>
       <!-- Cell 1 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>Music Processing and Genre Classifier using DSP and Deep Learning</h3><br>
-      <img src="./images/audio_signal.jpeg" height = "150" style="margin:10px">
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>Music Processing and Genre Classifier using DSP and Deep Learning</h3><br />
+      <img src="./images/audio_signal.jpeg" height="150" style="margin:10px" />
       <ul>
         <li> Goal: Understand audio as input data and identify its characteristics; Build a model to distinguish different genres of music using Digital Signal Processing and RNN/LSTM architectures </li>
         <li> Performed basic audio data analysis like waveform, spectrogram, Extracting MFCCs </li>
@@ -224,22 +217,23 @@ ul
       </ul>
       </td>
       <!-- Cell 2 -->
-      <td style="text-align: center; vertical-align: middle;">
-      <h3>Understanding COVID-19 Trends on Twitter using NLP</h3><br>
-      <img src="./images/wordclouds_all.png" height = "150" style="margin:10px">
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>Understanding COVID-19 Trends on Twitter using NLP</h3><br />
+      <img src="./images/wordclouds_all.png" height="150" style="margin:10px" />
       <ul>
         <li> Goal: Understand the trends and the changing trends on Twitter throughout the year 2020 related to the COVID-19 pandemic; Understand, correlate and verify the findings with respect to the real-world news/data </li>
         <li> Implemented a shell script for creating a command-line based scrapper for several 1000s of tweets from Twitter </li>
         <li> Cleaned extracted tweets; Applied various analysis techniques like wordclouds, trend of a given word w.r.t. month; TextBlob and logistic regression for sentiment analysis </li>
         <li> <a href="https://github.com/archity/covid-twitter-trends">GitHub repository</a> </li>
+        <li></li>
       </ul>
       </td>
     </tr>
     <tr>
       <!-- Cell 3 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>Document Scanner and Summarizer using OpenCV and PyTextRank</h3> <br>
-      <img src="./images/doc_scanner_kindle.jpg" height = "150" style="margin:10px">
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>Document Scanner and Summarizer using OpenCV and PyTextRank</h3> <br />
+      <img src="./images/doc_scanner_kindle.jpg" height="150" style="margin:10px" />
       <ul>
         <li> Goal: Create an image scanner and summarizer; Understand the pipeline behind mainstream doc scanner apps and apply Computer Vision and NLP to build a doc scanning prototype </li>
         <li> Image processing pipeline utilizing OpenCV constructed; blurring, edge detection, warping, thresholding </li>
@@ -248,9 +242,9 @@ ul
       </ul>
       </td>
       <!-- Cell 4 -->
-      <td style="text-align: center; vertical-align: middle;"><br>
-      <h3>3D Graphics based Medieval Scene using OpenGL</h3><br>
-      <img src="./images/city_view_night.jpg" height = "150">
+      <td style="text-align: center; vertical-align: middle;"><br />
+      <h3>3D Graphics based Medieval Scene using OpenGL</h3><br />
+      <img src="./images/city_view_night.jpg" height="150" />
       <ul>
         <li> Goal: Create a 3D scene with medieval period as a theme, for the course 3D Graphics </li>
         <li> Understood the basic graphics processing pipeline including rasterization, modelling, rendering and animation </li>
@@ -263,11 +257,11 @@ ul
   </tbody>
 </table>
 
-<br><br><br>
+<p><br /><br /><br /></p>
 
-# Publications
+<h1 id="publications">Publications</h1>
 
-<table align=center class="edu" style="background-color: rgb(255, 226, 226)">
+<table align="center" class="edu" style="background-color: rgb(255, 226, 226)">
   <tbody>
     <tr>
       <td>
@@ -281,7 +275,7 @@ ul
               <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
           </ul>
         </ul>
-        <br>
+        <br />
         <h2>Medium Articles</h2>
         <b>Towards Data Science</b>
         <ul>
@@ -298,13 +292,13 @@ ul
   </tbody>
 </table>
 
-<br><br><br>
+<p><br /><br /><br /></p>
 
-# Artworks
+<h1 id="artworks">Artworks</h1>
 
-Some of my favourite drawings. More can be found on my [Instagram](https://www.instagram.com/architydraws/) drawing acccount.
+<p>Some of my favourite drawings. More can be found on my <a href="https://www.instagram.com/architydraws/">Instagram</a> drawing acccount.</p>
 
-<br>
+<p><br /></p>
 
 <style>
   .art table
@@ -318,38 +312,39 @@ Some of my favourite drawings. More can be found on my [Instagram](https://www.i
   }
 </style>
 
-<table border=0px rules=none class=art style="background-color: rgb(213, 255, 249)">
+<table border="0px" rules="none" class="art" style="background-color: rgb(213, 255, 249)">
   <tbody>
     <tr>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/greenleaf_procreate.jpg" width = "200">
-      <br><br><br></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LaurenCohanPortrait.jpg" width = "200">
-      <br><a href="./images/Drawings/LaurenCohan_1minute_Black_Audio_ZoomEffect.mp4" style="font-size: 12px">Timelapse video</a><br>
-      <p style="font-size: 11px">
-      (Music credits: Black by <a href="https://youtu.be/xUCxxp1IZdY" style="font-size: 11px">Kari Kimmel</a>)</p></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/dragon_procreate.jpg" width = "200">
-      <br><br><br>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/greenleaf_procreate.jpg" width="200" />
+      <br /><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LaurenCohanPortrait.jpg" width="200" />
+      <br /><a href="./images/Drawings/LaurenCohan_1minute_Black_Audio_ZoomEffect.mp4" style="font-size: 10px">Timelapse video</a><br />
+      <p style="font-size: 9px">
+      (Music credits: Black by <a href="https://youtu.be/xUCxxp1IZdY" style="font-size: 9px">Kari Kimmel</a>)</p></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/dragon_procreate.jpg" width="200" />
+      <br /><br /><br />
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LindseyStirlingPortrait.jpg" width = "200">
-      <br><a href="./images/Drawings/LindseyStirling_15sec_NoFlicker.mp4" style="font-size: 12px">Timelapse video</a><br><br></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/daftpunk_procreate.jpg" width = "200">
-      <br><br><br></td>
-      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/TheNightKingPortrait.jpg" width = "200">
-      <br><a href="./images/Drawings/TNKWithAudio_Cropped.mp4" style="font-size: 12px">Timelapse video</a><br>
-      <p style="font-size: 11px">(Music credits: The Night King by <a href="https://youtu.be/k1frgt0D_f4" style="font-size: 11px">Ramin Djawadi</a>)</p></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/LindseyStirlingPortrait.jpg" width="200" />
+      <br /><a href="./images/Drawings/LindseyStirling_15sec_NoFlicker.mp4" style="font-size: 10px">Timelapse video</a><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/daftpunk_procreate.jpg" width="200" />
+      <br /><br /><br /></td>
+      <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/TheNightKingPortrait.jpg" width="200" />
+      <br /><a href="./images/Drawings/TNKWithAudio_Cropped.mp4" style="font-size: 10px">Timelapse video</a><br />
+      <p style="font-size: 9px">(Music credits: The Night King by <a href="https://youtu.be/k1frgt0D_f4" style="font-size: 9px">Ramin Djawadi</a>)</p></td>
     </tr> 
   </tbody>
 </table>
 
-<br><br>
+<p><br /><br /></p>
 
-<h2> Featured artwork </h2>
+<h2 id="featured-artwork">Featured artwork</h2>
 
-A timelapse video portrait I made of Steve Jobs was featured by my university's drawing club.
+<p>A timelapse video portrait I made of Steve Jobs was featured by my university’s drawing club.</p>
 
-<a href="https://fb.watch/2xXxcg3SXF/" target="_blank">
-<img src="./images/kalakriti_steve_jobs_fb_thumbnail.png" height = "300" align="center">
-</a>
+<p><a href="https://fb.watch/2xXxcg3SXF/" target="_blank">
+<img src="./images/kalakriti_steve_jobs_fb_thumbnail.png" height="300" align="center" />
+</a></p>
 
+:ET
