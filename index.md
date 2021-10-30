@@ -92,7 +92,6 @@ Organisation of rest of this website as follows:
         <li>Grenoble, France</li>
         <li>Specialization: Human and Digital World Interaction (HDWI)</li>
         <li>Grad year: 2022</li>
-        <li>Grade point: 12/20</li>
         <li>Courses taken in HDWI:</li>
         <ul>
           <li>Robotics</li>

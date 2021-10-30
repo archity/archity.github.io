@@ -1,4 +1,4 @@
-I"m<h1 id="experience">Experience</h1>
+I"š<h1 id="experience">Experience</h1>
 
 <style>
 .work table
@@ -21,7 +21,7 @@
 }
 </style>
 
-<table align="center" class="work">
+<table align="center" class="work" style="background-color: rgb(255, 255, 232)">
   <tbody>
     <tr>
       <!-- <td></td> -->

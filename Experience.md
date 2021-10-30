@@ -25,7 +25,7 @@ layout: default
 }
 </style>
 
-<table align=center class="work">
+<table align=center class="work" style="background-color: rgb(255, 255, 232)">
   <tbody>
     <tr>
       <!-- <td></td> -->
