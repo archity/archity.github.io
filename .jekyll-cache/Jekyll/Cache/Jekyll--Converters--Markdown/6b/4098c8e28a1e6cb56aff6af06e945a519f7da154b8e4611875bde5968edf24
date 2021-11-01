@@ -1,4 +1,4 @@
-I"h2<style>
+I"%4<style>
 .arcimg
 {
   padding: 2px;
@@ -12,6 +12,17 @@
   width: 40px;
 }
 </style>
+
+<meta name="description" content="Personal website of Archit Yadav" />
+
+<meta name="title" property="og:title" content="Personal Website" />
+
+<meta property="og:type" content="_" />
+
+<meta name="image" property="og:image" content="https://github.com/archity/archity.github.io/blob/master/images/archityadav_1000px.jpg?raw=true" />
+
+<meta name="description" property="og:description" content="_" />
+<meta name="author" content="Archit Yadav" />
 
 <p><a href="mailto:archityadav97@gmail.com"><img src="images/gmail.svg" class="iconimg" width="50px" /></a>
 <a href="mailto:archit.yadav@etu.univ-grenoble-alpes.fr"><img src="images/uga_146px.png" class="iconimg" width="50px" /></a>
