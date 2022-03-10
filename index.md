@@ -82,12 +82,13 @@ Organisation of rest of this website as follows:
 {
   width: 180px;
   padding: 20px;
+  Padding: 0px;
 }
 </style>
 
 # Education
 
-<table align=center class="edu" style="background-color: rgb(220, 255, 213)">
+<table align=center class="edu" style="background-color: rgb(0, 0, 0)">
   <tbody>
     <tr>
       <td>
@@ -155,23 +156,24 @@ tr
   display: block;
   margin-left: auto;
   margin-right: auto;
+  Padding: 0px;
 }
 </style>
 
 # Work Experience
 
-<table align=center class="work" style="background-color: rgb(255, 255, 232)">
+<table align=center class="work" style="background-color: rgb(0, 0, 0)">
   <tbody>
     <tr>
+      <td>
+        <h2><center>Machine Learning Research Intern</center></h2>
+        <h3><center>Qualcomm</center></h3>
+        <img src="./images/qualcomm-logo.svg"  width=250>
+      </td>
       <td>
         <h2><center>Open-Source NLP Researcher</center></h2>
         <h3><center>The Sound of AI</center></h3>
         <img src="./images/guitar_acoustic_720p.jpg">
-      </td>
-      <td>
-        <h2><center>ML Technical Content Writer</center></h2>
-        <h3><center>YData</center></h3>
-        <img src="./images/ydata_logo.png">
       </td>
     </tr>
   </tbody>
@@ -187,6 +189,7 @@ More on experience [here](./Experience.html)
 .project img
 {
   border-radius:10%;
+  Padding: 0px;
 }
 .project table
 {
@@ -213,7 +216,7 @@ ul
 # Projects
 
 
-<table align=center class="project" style="background-color: rgb(226, 226, 255)">
+<table align=center class="project" style="background-color: rgb(0, 0, 0)">
   <tbody>
     <tr>
       <!-- Cell 1 -->
@@ -272,7 +275,7 @@ ul
 
 # Publications
 
-<table align=center class="edu" style="background-color: rgb(255, 226, 226)">
+<table align=center class="edu" style="background-color: rgb(0, 0, 0)">
   <tbody>
     <tr>
       <td>
@@ -323,7 +326,7 @@ Some of my favourite drawings. More can be found on my [Instagram](https://www.i
   }
 </style>
 
-<table border=0px rules=none class=art style="background-color: rgb(213, 255, 249)">
+<table border=0px rules=none class=art style="background-color: rgb(0, 0, 0)">
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;"><img src="./images/Drawings/greenleaf_procreate.jpg" width = "200">

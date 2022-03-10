@@ -25,12 +25,25 @@ layout: default
 }
 </style>
 
-<table align=center class="work" style="background-color: rgb(255, 255, 232)">
+<table align=center class="work" style="background-color: rgb(0, 0, 0)">
   <tbody>
     <tr>
       <!-- <td></td> -->
       <td>
-        <h2>Open-Source Researcher, The Sound of AI (Feb'21 - present)</h2>
+        <h2>Research Intern, Qualcomm (Feb'22 - present)</h2>
+        <h3>Machine Learning Researcher</h3>
+        <img src="./images/qualcomm-logo.svg">
+        <ul>
+          <li> Goal: Research on Machine Learning techniques and algorithmsfor the application/usecase of 5G and XR (eXtended Reality) </li>
+          <li> Internship part of the M2 (master's final year) thesis</li>
+          <br><br>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <!-- <td></td> -->
+      <td>
+        <h2>Open-Source Researcher, The Sound of AI (Feb'21 - Nov'21)</h2>
         <h3>NLP Researcher</h3>
         <img src="./images/tsoai_ppt_wc.jpg">
         <ul>
