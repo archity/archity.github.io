@@ -281,12 +281,18 @@ ul
       <td>
         <h2>Research Paper</h2>
         <ul>
-          <li><i>“First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity”</i></li>
-          <li><i>“Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors”</i></li>
+          <li><i>"First Steps Towards Runtime Hardware Trojan Detection in Microprocessors through Software Diversity"</i></li>
+          <li><i>"Towards Common Reference Methods to Evaluate Detection Techniques for Hardware Trojans in Microprocessors"</i></li>
           <ul>
               <li> Two joint research papers expected to be published at a conference </li>
               <li> Result of work done in internship at LIRMM under Prof. Giorgio Di Natale </li>
               <li><a href="https://drive.google.com/file/d/1AGi2RDS6ohoc4FFPb4kj4tXz4aAx9BZ-/view?usp=sharing">Paper snippet</a></li>
+          </ul>
+          <li><i>"From Words to Sound: Neural Audio Synthesis of Guitar Sounds with Timbral Descriptors"</i></li>
+          <ul>
+              <li> Accepted for publication in <a href="https://2022.aimusiccreativity.org/">AIMC 2022</a> conference on July 11</li>
+              <li> Result of an Open-Source Research (OSR) work done with 150+ people of The Sound of AI OSR community </li>
+              <li><a href="https://drive.google.com/file/d/1g4TyGQk9SLIa8gXHMTecLVQ7h99lc3rd/view?usp=sharing">Paper abstract</a></li>
           </ul>
         </ul>
         <br>
